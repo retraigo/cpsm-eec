@@ -1001,7 +1001,7 @@ export default [{
   "phone": "9284234918",
 }, {
   "name": "Dr.C. M. Sudha Arogya Mary",
-  "email": "Sudhaarogyamary@gmail.com",
+  "email": "cmsudhaarogyamary@saveetha.ac.in",
   "college": "Saveetha Engineering College (Autonomous)",
   "phone": "7550271014",
 }, {
@@ -1794,7 +1794,7 @@ export default [{
   "phone": "9840210177",
 }, {
   "name": "Sathya D",
-  "email": "sathya. ai@kongu.edu",
+  "email": "sathya.ai@kongu.edu",
   "college": "KONGU ENGINEERING COLLEGE",
   "phone": "9786005629",
 }, {
@@ -2708,14 +2708,4 @@ export default [{
   "email": "",
   "college": "Amrita College of Engineering and Technology",
   "phone": "9944840240",
-}, {
-  "name": "D. Sathya",
-  "email": "sathya.ai@kongu.edu",
-  "college": "Kongu Engineering College",
-  "phone": "9786005629",
-}, {
-  "name": "C. M. Sudha Arogya Mary",
-  "email": "cmsudhaarogyamary@saveetha.ac.in",
-  "college": "Saveetha Engineering College",
-  "phone": "7550271014",
 }];
