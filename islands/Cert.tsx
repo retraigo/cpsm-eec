@@ -50,7 +50,7 @@ function GetCertificate({ id }: { id: string }) {
         download={`FDP_EEC_${id}_${name.name}.png`}
       >
         <img class="w-full lg:w-96" src={cert} />
-        <small class="text-blue-400">(Click to download)</small>
+        <small class="text-blue-400">({cert ? `Click to download` : `Please wait...`})</small>
       </a>
     </div>
   );

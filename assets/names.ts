@@ -1165,7 +1165,7 @@ export default [{
   "college": "SRM UNIVERSITY, RAMAPURAM CAMPUS",
   "phone": "9500174505",
 }, {
-  "name": "Mohamed Abdul Rahim.P",
+  "name": "Mohamed Abdul Rahim P.",
   "email": "Mar632004@gmail.com",
   "college": "PERI INSTITUTE OF TECHNOLOGY",
   "phone": "9884508915",
@@ -1356,7 +1356,7 @@ export default [{
   "college": "Velammal Engineering College",
   "phone": "9884969715",
 }, {
-  "name": "Dr.A. Mohamed Mustaq Ahmed",
+  "name": "Dr. A. Mohamed Mustaq Ahmed",
   "email": "mmmustaq@gmail.com",
   "college": "The New College",
   "phone": "7357400393",
