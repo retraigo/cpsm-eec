@@ -170,7 +170,7 @@ export default [{
   "phone": "9486294885",
 }, {
   "name": "A. Inbavalli",
-  "email": "Inbavallikumaran. 2010@gmail.com",
+  "email": "Inbavallikumaran.2010@gmail.com",
   "college": "IFET College Of Engineering",
   "phone": "8610385388",
 }, {
@@ -714,7 +714,7 @@ export default [{
   "college": "Sri Sairam Engineering College",
   "phone": "9940448272",
 }, {
-  "name": " S Hema",
+  "name": "S Hema",
   "email": "hemasahayaraj804@gmail.com",
   "college": "SARANATHAN COLLEGE OF ENGINEERING TRICHY",
   "phone": "6381484673",
@@ -791,7 +791,7 @@ export default [{
   "phone": "9847273840",
 }, {
   "name": "R. Meenakshi",
-  "email": "MEENAKSHIR@GMAIL. COM",
+  "email": "MEENAKSHIR@GMAIL.COM",
   "college": "Chennai Institute Of Technology",
   "phone": "9840218094",
 }, {
@@ -1041,7 +1041,7 @@ export default [{
   "phone": "9550214241",
 }, {
   "name": "Bavithra P",
-  "email": " bavithrapandiyan@gmail. Com",
+  "email": "bavithrapandiyan@gmail.Com",
   "college": "MOHAMED SATHAK HAMID COLLEGE OF ARTS AND SCIENCE FOR WOMEN",
   "phone": "7339250854",
 }, {
@@ -2079,7 +2079,7 @@ export default [{
   "phone": "9789992329",
 }, {
   "name": "Thanigaivel G",
-  "email": "TLG. CSE@RMKEC. AC. IN",
+  "email": "TLG.CSE@RMKEC.AC.IN",
   "college": "R. M. K. COLLEGE OF ENGINEERING",
   "phone": "6379452757",
 }, {
@@ -2149,7 +2149,7 @@ export default [{
   "phone": "6369976367",
 }, {
   "name": "Mrs. S. Arunakumari",
-  "email": "aruna.selvanatarajan1@ gmail.Com",
+  "email": "aruna.selvanatarajan1@gmail.Com",
   "college": "IFET College Of Engineering",
   "phone": "9489616694",
 }, {
@@ -2199,7 +2199,7 @@ export default [{
   "phone": "9677079654",
 }, {
   "name": "Karthiyayini G",
-  "email": "Karthiyayini2588@gmail .Com",
+  "email": "Karthiyayini2588@gmail.Com",
   "college": "Bharath Niketan Engineering College",
   "phone": "9629985524",
 }, {
@@ -2320,7 +2320,7 @@ export default [{
   "phone": "9786763777",
 }, {
   "name": "Dr. K. Latha",
-  "email": "LathaK. CSE@sairam.edu.in",
+  "email": "LathaK.CSE@sairam.edu.in",
   "college": "Sri Sairam Engineering College",
   "phone": "9940308527",
 }, {
@@ -2384,7 +2384,7 @@ export default [{
   "college": "SRMIST",
   "phone": "9791994531",
 }, {
-  "name": " N Lakshmi Meenakshi",
+  "name": "N Lakshmi Meenakshi",
   "email": "meenakshe3@gmail.com",
   "college": "Kommuri Pratap Reddy Institute Of Technology",
   "phone": "9381956194",
@@ -2645,7 +2645,7 @@ export default [{
   "phone": "9524484299",
 }, {
   "name": "K. Aleenshylaja",
-  "email": "K. ALEENSHYLAJA",
+  "email": "K.ALEENSHYLAJA",
   "college": "Parisutham Institute Of Technology And Science",
   "phone": "8610720677",
 }, {
