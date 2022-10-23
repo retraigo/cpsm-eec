@@ -42,14 +42,14 @@ ctx.strokeStyle = "#1445a1";
   */
   ctx.font = applyText(
     canvas,
-    `${name}`,
+    `${college}`,
   );
 
   ctx.shadowBlur = 0;
   ctx.fillStyle = "#000000";
   ctx.fillText(
     `${name}`,
-    1600,
+    1500,
     1100,
   );
 

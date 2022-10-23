@@ -24,7 +24,7 @@ export default [{
   "college": "Sri Sairam Engineering College",
   "phone": "9962451455",
 }, {
-  "name": "Dr.S.Samundeswari",
+  "name": "Dr. S. Samundeswari",
   "email": "samundeswari.cse@sairam.edu.in",
   "college": "Sri Sai Ram Engineering College",
   "phone": "9445638647",
