@@ -1,7 +1,5 @@
 import { Head } from "$fresh/runtime.ts";
-import Names from "../assets/names.ts";
-import NameList from "../islands/NameList.tsx"
-
+import Cert from "../islands/Cert.tsx";
 export default function Home() {
   return (
     <div class="p-4 flex flex-col space-y-8 mx-auto max-w-screen-md">
@@ -27,7 +25,7 @@ export default function Home() {
           FDP on Data Science Tools
         </div>
       </div>
-      <NameList />
+      <Cert />
     </div>
   );
 }

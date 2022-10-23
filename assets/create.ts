@@ -2,9 +2,8 @@ import {
   createCanvas,
   EmulatedCanvas2D,
   loadImage,
-} from "https://deno.land/x/canvas@v1.4.1/mod.ts";
+} from "canvas";
 
-const __filename = new URL("", import.meta.url).pathname;
 const __dirname = new URL(".", import.meta.url).pathname;
 
 const bg = await loadImage(`${__dirname}/certificate_base.webp`);
@@ -50,7 +49,7 @@ ctx.strokeStyle = "#1445a1";
   ctx.fillStyle = "#000000";
   ctx.fillText(
     `${name}`,
-    1555,
+    1600,
     1100,
   );
 
@@ -60,7 +59,7 @@ ctx.strokeStyle = "#1445a1";
   );
   ctx.fillText(
     `${college}`,
-    1000,
+    600,
     1270,
   );
 
@@ -74,7 +73,7 @@ function applyText(canvas: EmulatedCanvas2D, text: string, baseSize = 100) {
 
   do {
     ctx.font = `${(fontSize -= 10)}px pacifico`;
-  } while (ctx.measureText(text).width > canvas.width - 400);
+  } while (ctx.measureText(text).width > canvas.width - 300);
 
   return ctx.font;
 }
