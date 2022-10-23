@@ -72,8 +72,8 @@ function applyText(canvas: EmulatedCanvas2D, text: string, baseSize = 100) {
   let fontSize = baseSize;
 
   do {
-    ctx.font = `${(fontSize -= 10)}px pacifico`;
-  } while (ctx.measureText(text).width > canvas.width - 300);
+    ctx.font = `${(fontSize -= 1)}px pacifico`;
+  } while (ctx.measureText(text).width > canvas.width - 100);
 
   return ctx.font;
 }
