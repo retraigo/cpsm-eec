@@ -706,7 +706,7 @@ export default [{
 }, {
   "name": "V Muthulakshmi",
   "email": "ajayanish@gmail.com",
-  "college": "St. Joseph's College Of Engineering OMR Sheet",
+  "college": "St. Joseph's College Of Engineering",
   "phone": "9600012956",
 }, {
   "name": "D. Kavitha",
@@ -802,7 +802,7 @@ export default [{
 }, {
   "name": "Jayasurya P",
   "email": "jayasuryap03@gmail.com",
-  "college": "St.joseph's College Of Engineering, omr Chennai.",
+  "college": "St. Joseph's College Of Engineering",
   "phone": "6380372823",
 }, {
   "name": "Dr.M. Lavanya",
@@ -1228,7 +1228,7 @@ export default [{
 }, {
   "name": "Dr. P. Thilagavathi",
   "email": "thiuxpriya499@gmail.com",
-  "college": "St.Joseph's College Of Engineering , OMR Chennai",
+  "college": "St.Joseph's College Of Engineering",
   "phone": "9487885748",
 }, {
   "name": "Satyanarayana Pamarthi",
@@ -2050,8 +2050,8 @@ export default [{
 }, {
   "name": "G. Maaalakshmi",
   "email": "mahaalakshmi22@gmail.com",
-  "college": "",
-  "phone": "",
+  "college": "Saveetha School of Engineering",
+  "phone": "9751447399",
 }, {
   "name": "Ajay Antony Joseph",
   "email": "ajayjoseph24@gmail.com",
@@ -2678,4 +2678,29 @@ export default [{
   "email": "kanimozhi.na@gmail.com",
   "college": "SRM Institute Of Science And Technology",
   "phone": "9841070847",
+}, {
+  "name": "V. Balaji",
+  "email": "vbalaji@crescent.education",
+  "college": "B. S. Abdur Rahman Crescent Institute of Science & Technology",
+  "phone": "9600822007",
+}, {
+  "name": "Dr. S. P. Valli",
+  "email": "vallisp@crescent.education",
+  "college": "B. S. Abdur Rahman Crescent Institute of Science & Technology",
+  "phone": "9444152117",
+}, {
+  "name": "Kalaiselvan V",
+  "email": "vkalaiselvan23092001@gmail.com",
+  "college": "M. P. Nachimuthu M Jaganathan Engineering college",
+  "phone": "9345475372",
+}, {
+  "name": "Nihilan U N",
+  "email": "unnihilan@gmail.com",
+  "college": "Easwari Engineering College",
+  "phone": "",
+}, {
+  "name": "Keerthi Priya P.",
+  "email": "keerthipriya087@gmail.com",
+  "college": "Easwari Engineering College",
+  "phone": "",
 }];
