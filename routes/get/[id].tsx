@@ -9,11 +9,11 @@ export default function GetCertificate(props: PageProps) {
 
   if (!id && id !== 0) return <div class="text-2xl">Not a particiant</div>;
 
-  const name = Names[id];
+  const name = Names.find(x => x.id === id);
 
   if (!name) return <div class="text-2xl">Not a particiant</div>;
 
-  const cert = create(name);
+  const cert = create(name.name, name.college);
 
   return (
     <div class="flex flex-col space-y-8 w-full items-center tracking-wide lg:mt-32">

@@ -19,11 +19,11 @@ export default function NameList() {
         />
       </div>
       <ul class="list-disc list-inside text-blue-800 text-lg space-y-6">
-        {Names.filter((x) => x.toLowerCase().includes(name)).sort().map((
+        {Names.filter((x) => x.name.toLowerCase().includes(name)).sort().map((
           x,
         ) => (
           <li>
-            <a href={`/get/${Names.indexOf(x)}`}>{x}</a>
+            <a href={`/get/${x.id}`}>{x.name}</a>
           </li>
         ))}
       </ul>

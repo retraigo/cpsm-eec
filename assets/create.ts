@@ -7,14 +7,14 @@ import {
 const __filename = new URL("", import.meta.url).pathname;
 const __dirname = new URL(".", import.meta.url).pathname;
 
-const bg = await loadImage(`${__dirname}/certificate.webp`);
+const bg = await loadImage(`${__dirname}/certificate_base.webp`);
 
 const fontFam = await Deno.readFile(
   `${__dirname}/Courgette-Regular.ttf`,
 );
 
-export default function create(name: string): string {
-  const canvas = createCanvas(1169, 826);
+export default function create(name: string, college: string): string {
+  const canvas = createCanvas(3511, 2483);
 
   const ctx = canvas.getContext("2d");
 
@@ -25,11 +25,6 @@ export default function create(name: string): string {
   canvas.loadFont(fontFam, {
     family: "pacifico",
   });
-
-  ctx.font = applyText(
-    canvas,
-    `${name}`,
-  );
 
   ctx.textAlign = "center";
   ctx.textBaseline = "middle";
@@ -46,25 +41,40 @@ ctx.strokeStyle = "#1445a1";
     370,
   );
   */
+  ctx.font = applyText(
+    canvas,
+    `${name}`,
+  );
+
   ctx.shadowBlur = 0;
   ctx.fillStyle = "#000000";
   ctx.fillText(
     `${name}`,
-    555,
-    370,
+    1555,
+    1100,
+  );
+
+  ctx.font = applyText(
+    canvas,
+    `${college}`,
+  );
+  ctx.fillText(
+    `${college}`,
+    1000,
+    1270,
   );
 
   return canvas.toDataURL();
 }
 
-function applyText(canvas: EmulatedCanvas2D, text: string, baseSize = 50) {
+function applyText(canvas: EmulatedCanvas2D, text: string, baseSize = 100) {
   const ctx = canvas.getContext("2d");
 
   let fontSize = baseSize;
 
   do {
     ctx.font = `${(fontSize -= 10)}px pacifico`;
-  } while (ctx.measureText(text).width > canvas.width - 600);
+  } while (ctx.measureText(text).width > canvas.width - 400);
 
   return ctx.font;
 }
