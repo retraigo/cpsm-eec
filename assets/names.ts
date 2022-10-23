@@ -479,7 +479,7 @@ export default [{
   "name": "K. Anitha",
   "email": "anitha.kalimuthu@gmail.com",
   "college":
-  "Department Of Computer Applications, Alagappa University, Karaikudi",
+  "Alagappa University, Karaikudi",
   "phone": "6382259491",
 }, {
   "name": "Aswin S",
