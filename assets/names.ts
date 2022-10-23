@@ -2703,4 +2703,19 @@ export default [{
   "email": "keerthipriya087@gmail.com",
   "college": "Easwari Engineering College",
   "phone": "",
+}, {
+  "name": "Rajeesh Kumar  N. V.",
+  "email": "",
+  "college": "Amrita College of Engineering and Technology",
+  "phone": "9944840240",
+}, {
+  "name": "D. Sathya",
+  "email": "sathya.ai@kongu.edu",
+  "college": "Kongu Engineering College",
+  "phone": "9786005629",
+}, {
+  "name": "C. M. Sudha Arogya Mary",
+  "email": "cmsudhaarogyamary@saveetha.ac.in",
+  "college": "Saveetha Engineering College",
+  "phone": "7550271014",
 }];
