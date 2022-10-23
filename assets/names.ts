@@ -54,7 +54,7 @@ export default [{
   "college": "SRM Institute Of Science And Technology",
   "phone": "9943256054",
 }, {
-  "name": "Dr. Reshmy A.K.",
+  "name": "Dr. Reshmy A. K.",
   "email": "reshmyak@gmail.com",
   "college": "SRM Institute Of Science & Technology",
   "phone": "9790930377",
@@ -74,12 +74,12 @@ export default [{
   "college": "Easwari Engineering College",
   "phone": "9003373944",
 }, {
-  "name": "Dr.R.Valarmathi",
+  "name": "Dr.R. Valarmathi",
   "email": "valarmathi.cse@sairam.edu.in",
   "college": "Sri Sairam Engineering College",
   "phone": "9444778710",
 }, {
-  "name": "Dr.R.Uma",
+  "name": "Dr.R. Uma",
   "email": "uma.cse@sairam.edu.in",
   "college": "Sri Sairam Engineering College",
   "phone": "9444244644",
@@ -151,7 +151,7 @@ export default [{
 }, {
   "name": "Dr. Aradhana D",
   "email": "aradhanabm@gmail.com",
-  "college": "Ballari Institute Of Technology And Management,  Ballari",
+  "college": "Ballari Institute Of Technology And Management, Ballari",
   "phone": "9986666094",
 }, {
   "name": "Dr.Roopa M",
@@ -179,7 +179,7 @@ export default [{
   "college": "SRMIST -KTR",
   "phone": "9445959163",
 }, {
-  "name": "Dr.R.Senthamil Selvi",
+  "name": "Dr.R. Senthamil Selvi",
   "email": "senthamilselvi-cse@saranathan.ac.in",
   "college": "Saranathan College Of Engineering",
   "phone": "9865703131",
@@ -196,7 +196,7 @@ export default [{
 }, {
   "name": "Maison Geethika",
   "email": "maisongeethikaraj@email.com",
-  "college": "Kommuri Pratap Reddy Institute Of  Technology",
+  "college": "Kommuri Pratap Reddy Institute Of Technology",
   "phone": "9121638277",
 }, {
   "name": "Thiagarajan",
@@ -209,7 +209,7 @@ export default [{
   "college": "Mahaguru Institution Of Technology",
   "phone": "7620693648",
 }, {
-  "name": "Dr  T R Saravanan",
+  "name": "Dr T R Saravanan",
   "email": "saravant1@srmist.edu.in",
   "college": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY KATTANKULATHUR",
   "phone": "9841644189",
@@ -219,7 +219,7 @@ export default [{
   "college": "Kommuri Pratap Reddy Institute Of Technology",
   "phone": "8074964763",
 }, {
-  "name": "R.Muthalagu",
+  "name": "R. Muthalagu",
   "email": "rajamuthalagu1970@gmail.com",
   "college": "Agni College Of Technology",
   "phone": "09841391234",
@@ -244,7 +244,7 @@ export default [{
   "college": "Agni College Of Technology",
   "phone": "9790949644",
 }, {
-  "name": "Dr.S.Mohana",
+  "name": "Dr.S. Mohana",
   "email": "mohana-cse@saranathan.ac.in",
   "college": "Saranathan College Of Engineering",
   "phone": "9566470005",
@@ -289,18 +289,18 @@ export default [{
   "college": "Sri Krishna College Of Engineering And Technology",
   "phone": "9061714796",
 }, {
-  "name": "Dr.K.Vijayalakshmi",
+  "name": "Dr.K. Vijayalakshmi",
   "email": "vijaylak@srmist.edu.in",
   "college":
-    "S.R.M.Institute Of Science And Technology, Kattankulathur, Chennai.",
+  "S. R. M. Institute Of Science And Technology, Kattankulathur, Chennai.",
   "phone": "8681998954",
 }, {
-  "name": "S.Maheswari",
+  "name": "S. Maheswari",
   "email": "rs.mahes17@gmail.com",
   "college": "Easwari Engineering College",
   "phone": "9884443567",
 }, {
-  "name": "Dr. M.Joseph Auxilius Jude",
+  "name": "Dr. M. Joseph Auxilius Jude",
   "email": "jude2193@gmail.com",
   "college": "Kongu Engineering College",
   "phone": "9443994332",
@@ -308,7 +308,7 @@ export default [{
   "name": "Francis Thivya A",
   "email": "jaswanthars2317@gmail.com",
   "college":
-    "St. Joseph's College Of Engineering And Technology, Elupatti, Thanjavur",
+  "St. Joseph's College Of Engineering And Technology, Elupatti, Thanjavur",
   "phone": "8825554097",
 }, {
   "name": "Mrs. S. Benil Jeniffer",
@@ -326,7 +326,7 @@ export default [{
   "college": "Panimalar Engineering College",
   "phone": "8903459499",
 }, {
-  "name": "K.Senthilvadivu",
+  "name": "K. Senthilvadivu",
   "email": "senthilvadivu.ai@kongu.edu",
   "college": "Kongu Engineering College",
   "phone": "9500785698",
@@ -346,12 +346,12 @@ export default [{
   "college": "SRIRAM ENGINEERING COLLEGE PERUMALPATTU CHENNAI-602 024",
   "phone": "8248391117",
 }, {
-  "name": "R.Sumathi",
+  "name": "R. Sumathi",
   "email": "sumathipalani475@gmail.com",
   "college": "Jeppiaar Institute Of Technology",
   "phone": "9443543556",
 }, {
-  "name": "S.Sivakumar",
+  "name": "S. Sivakumar",
   "email": "sivaroja@gmail.com",
   "college": "Rajiv Gandhi College Of Engineering And Technology",
   "phone": "9787200196",
@@ -363,12 +363,12 @@ export default [{
 }, {
   "name": "Natteshan N V S",
   "email": "natteshan@saec.ac.in",
-  "college": "S.A. Engineering College",
+  "college": "S. A. Engineering College",
   "phone": "9940482291",
 }, {
   "name": "Girija P",
   "email": "girijap@saec.ac.in",
-  "college": "S.A. Engineering College",
+  "college": "S. A. Engineering College",
   "phone": "8870774408",
 }, {
   "name": "K. Deepa",
@@ -421,12 +421,12 @@ export default [{
   "college": "SRM Institute Of Science And Technology, Vadapalani Campus",
   "phone": "9840067763",
 }, {
-  "name": "S.Balaji",
+  "name": "S. Balaji",
   "email": "balajis3@srmist.edu.in",
   "college": "SRMIST, VADAPALANI",
   "phone": "9080909717",
 }, {
-  "name": "T.S.Balaji",
+  "name": "T. S. Balaji",
   "email": "balajit@srmist.edu.in",
   "college": "SRM Institute Of Science And Technology, Vadapalani Campus",
   "phone": "9710769781",
@@ -436,17 +436,17 @@ export default [{
   "college": "DMI College Of Engineering",
   "phone": "7639502891",
 }, {
-  "name": "Dr.S.Selvi",
+  "name": "Dr.S. Selvi",
   "email": "dselvi.tpr@gmail.com",
   "college": "Builders Engineering College",
   "phone": "9965774050",
 }, {
-  "name": "R.Sathiya",
+  "name": "R. Sathiya",
   "email": "sathiyar1@srmist.edu.in",
   "college": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY",
   "phone": "9003373906",
 }, {
-  "name": "P.Brindha",
+  "name": "P. Brindha",
   "email": "brindhassk@gmail.com",
   "college": "BUILDERS ENGINEERING COLLEGE",
   "phone": "8675539649",
@@ -466,7 +466,7 @@ export default [{
   "college": "Kommuri Pratap Reddy Institute Of Technology",
   "phone": "9030321395",
 }, {
-  "name": "S.Deivanayagi",
+  "name": "S. Deivanayagi",
   "email": "deivanayagi.ece@sairamit.edu.in",
   "college": "Sri Sairam Institute Of Technology",
   "phone": "9789390392",
@@ -476,10 +476,10 @@ export default [{
   "college": "Peri Institute Of Technology",
   "phone": "8248060793",
 }, {
-  "name": "K.Anitha",
+  "name": "K. Anitha",
   "email": "anitha.kalimuthu@gmail.com",
   "college":
-    "Department Of Computer Applications, Alagappa University, Karaikudi",
+  "Department Of Computer Applications, Alagappa University, Karaikudi",
   "phone": "6382259491",
 }, {
   "name": "Aswin S",
@@ -492,12 +492,12 @@ export default [{
   "college": "Peri Institute Of Technology",
   "phone": "9345586383",
 }, {
-  "name": "D.Dinesh Chaudhary",
+  "name": "D. Dinesh Chaudhary",
   "email": "ddineshchaudhary15@gmail.com",
   "college": "PERI INSTITUTE OF TECHNOLOGY",
   "phone": "9380614553",
 }, {
-  "name": "E.Priyanka",
+  "name": "E. Priyanka",
   "email": "splinecg11@gmail.com",
   "college": "IFET COLLEGE OF ENGINEERING",
   "phone": "8940011093",
@@ -507,7 +507,7 @@ export default [{
   "college": "St Joseph's College Of Engineering And Technology, Thanjavur",
   "phone": "9884208017",
 }, {
-  "name": "P.Glaret Subin",
+  "name": "P. Glaret Subin",
   "email": "glaretsp@srmist.edu.in",
   "college": "SRM Institute Of Science And Technology",
   "phone": "9445381372",
@@ -542,13 +542,13 @@ export default [{
   "college": "PERI INSTITUTE OF TECHNOLOGY",
   "phone": "7305608399",
 }, {
-  "name": "K.Rajkumar",
+  "name": "K. Rajkumar",
   "email": "krajkumar@veltech.edu.in",
   "college":
-    "Vel Tech Rangarajan Dr.Sagunthala R&D Institute Of Science And Technology",
+  "Vel Tech Rangarajan Dr.Sagunthala R&D Institute Of Science And Technology",
   "phone": "8122948032",
 }, {
-  "name": "K.Priyadharshini",
+  "name": "K. Priyadharshini",
   "email": "priyadharshinik@stjosephs.ac.in",
   "college": "St.Joseph's College Of Engineering, Chennai -119",
   "phone": "9677009534",
@@ -558,12 +558,12 @@ export default [{
   "college": "SDNB Vaishnav College For Women",
   "phone": "+919444129866",
 }, {
-  "name": "K.Mekala Devi",
+  "name": "K. Mekala Devi",
   "email": "mk3229@srmist.edu.in",
   "college": "SRMIST, KATTANKULATHUR",
   "phone": "9940468111",
 }, {
-  "name": "R.Ashwini",
+  "name": "R. Ashwini",
   "email": "ashwiniraman86@gmail.com",
   "college": "SRMIST",
   "phone": "9551100777",
@@ -583,7 +583,7 @@ export default [{
   "college": "SRM IST, Vadapalani",
   "phone": "9445704863",
 }, {
-  "name": "A.Vasuki",
+  "name": "A. Vasuki",
   "email": "vasukia@srmist.edu.in",
   "college": "SRM Institute Of Science And Technology, Vadapalani",
   "phone": "9840982599",
@@ -673,7 +673,7 @@ export default [{
   "college": "Easwari Engineering College",
   "phone": "9444888867",
 }, {
-  "name": "Dr D.V Chandrashekar",
+  "name": "Dr D. V Chandrashekar",
   "email": "dvchand.info@gmail.com",
   "college": "TJPS COLLEGE , GUNTUR",
   "phone": "9440454033",
@@ -681,10 +681,10 @@ export default [{
   "name": "Vishwa Priya V",
   "email": "vishwapriya13@gmail.com",
   "college":
-    "VISTAS Vels Institution Of Science Technology And Advanced Studies",
+  "VISTAS Vels Institution Of Science Technology And Advanced Studies",
   "phone": "9962281292",
 }, {
-  "name": "S.Gnanapriya",
+  "name": "S. Gnanapriya",
   "email": "gnanapriya.s@eec.srmrmp.edu.in",
   "college": "EASWARI ENGINEERING COLLEGE",
   "phone": "9841799718",
@@ -709,7 +709,7 @@ export default [{
   "college": "St. Joseph's College Of Engineering OMR Sheet",
   "phone": "9600012956",
 }, {
-  "name": "D.Kavitha",
+  "name": "D. Kavitha",
   "email": "kavithad.cse@sairam.edu.in",
   "college": "Sri Sairam Engineering College",
   "phone": "9940448272",
@@ -729,12 +729,12 @@ export default [{
   "college": "Gnanamani College Of Technology",
   "phone": "9788513628",
 }, {
-  "name": "B.Jesima Habbebu",
+  "name": "B. Jesima Habbebu",
   "email": "jafferjesi716@gmail.com",
   "college": "ANNAI COLLEGE OF ENGINEERING TECHNOLOGY",
   "phone": "6381109141",
 }, {
-  "name": "Dr.Janani S",
+  "name": "Dr. Janani S",
   "email": "drsjananiece@gmail.com",
   "college": "Periyar Maniammai Institute Of Science & Technology",
   "phone": "09865175527",
@@ -759,7 +759,7 @@ export default [{
   "college": "SRM",
   "phone": "8300632029",
 }, {
-  "name": "Dr.G.Manikandan",
+  "name": "Dr. G. Manikandan",
   "email": "maniprofessional@gmail.com",
   "college": "St Joseph's College Of Engineering",
   "phone": "9840063265",
@@ -772,7 +772,7 @@ export default [{
   "name": "Dr. Sampada Gulavani",
   "email": "sg4906@gmail.com",
   "college":
-    "Bharati Vidyapeeth(Deemed To Be University) Institute Of Management, Kolhapur",
+  "Bharati Vidyapeeth(Deemed To Be University) Institute Of Management, Kolhapur",
   "phone": "09890677201",
 }, {
   "name": "Aarthi B",
@@ -790,8 +790,8 @@ export default [{
   "college": "Ilahia College Of Engineering And Technology",
   "phone": "9847273840",
 }, {
-  "name": "R.Meenakshi",
-  "email": "MEENAKSHIR@GMAIL.COM",
+  "name": "R. Meenakshi",
+  "email": "MEENAKSHIR@GMAIL. COM",
   "college": "Chennai Institute Of Technology",
   "phone": "9840218094",
 }, {
@@ -805,7 +805,7 @@ export default [{
   "college": "St.joseph's College Of Engineering, omr Chennai.",
   "phone": "6380372823",
 }, {
-  "name": "Dr.M.Lavanya",
+  "name": "Dr.M. Lavanya",
   "email": "lavanyalalith1979@gmail.com",
   "college": "SDNB VAISHNAV COLLEGE FOR WOMEN CHROMPET CHENNAI",
   "phone": "9884562103",
@@ -820,9 +820,9 @@ export default [{
   "college": "Ilahia College Of Engineering",
   "phone": "9496351647",
 }, {
-  "name": "K.Valarmathi",
+  "name": "K. Valarmathi",
   "email": "valar.me964@gmail.com",
-  "college": "EEC",
+  "college": "Easwari Engineering College",
   "phone": "9940143964",
 }, {
   "name": "Chandrakala K",
@@ -890,12 +890,12 @@ export default [{
   "college": "Sree Buddha College Of Engineering, Pattoor, Alappuzha",
   "phone": "9847688529",
 }, {
-  "name": "Dr.K.Baskar",
+  "name": "Dr. K. Baskar",
   "email": "kbaskar@kongunadu.ac.in",
   "college": "Kongunadu College Of Engineering And Technology (Autonomous)",
   "phone": "9791618754",
 }, {
-  "name": "A.Poornima",
+  "name": "A. Poornima",
   "email": "poornima@mkjc.in",
   "college": "Marudhar Kesari Jain College For Women",
   "phone": "9500509752",
@@ -905,7 +905,7 @@ export default [{
   "college": "Tamil University",
   "phone": "8248138932",
 }, {
-  "name": "S.Kalpana",
+  "name": "S. Kalpana",
   "email": "kalpana.eee@sairampoly.edu.in",
   "college": "Sri Sairam Polytechnic College",
   "phone": "8939526970",
@@ -935,17 +935,17 @@ export default [{
   "college": "Madurai Kamaraj University",
   "phone": "07695965697",
 }, {
-  "name": "Chandrasekhar.V",
+  "name": "Chandrasekhar V.",
   "email": "vcs9440971297@gmail.com",
   "college": "Ballari Institute Of Technology And Management (BITM)",
   "phone": "9440971297",
 }, {
-  "name": "Dr.R.Kaladevi",
+  "name": "Dr. R. Kaladevi",
   "email": "kaladevi@saveetha.ac.in",
   "college": "Saveetha Engineering College",
   "phone": "9710074931",
 }, {
-  "name": "Tamilselvi.P",
+  "name": "Tamilselvi P.",
   "email": "tamizs2k2@gmail.com",
   "college": "VISTAS",
   "phone": "7358057424",
@@ -1000,7 +1000,7 @@ export default [{
   "college": "Army Institute Of Technology, Pune",
   "phone": "9284234918",
 }, {
-  "name": "Dr.C.M.Sudha Arogya Mary",
+  "name": "Dr.C. M. Sudha Arogya Mary",
   "email": "Sudhaarogyamary@gmail.com",
   "college": "Saveetha Engineering College (Autonomous)",
   "phone": "07550271014",
@@ -1012,7 +1012,7 @@ export default [{
 }, {
   "name": "Eesha D",
   "email": "eesha.ece@bmsce.ac.in",
-  "college": "B.M.S. College Of Engineering, Bengaluru",
+  "college": "B. M. S. College Of Engineering, Bengaluru",
   "phone": "9741690994",
 }, {
   "name": "Dr R Kiruthiga",
@@ -1035,12 +1035,12 @@ export default [{
   "college": "Army Institute Of Technology",
   "phone": "8007000879",
 }, {
-  "name": "K  Aravind Kumar",
+  "name": "K Aravind Kumar",
   "email": "aravindkumarkyrika@gmail.com",
   "college": "Gurunanak Intitute Of Technology",
   "phone": "9550214241",
 }, {
-  "name": "Bavithra  P",
+  "name": "Bavithra P",
   "email": " bavithrapandiyan@gmail. Com",
   "college": "MOHAMED SATHAK HAMID COLLEGE OF ARTS AND SCIENCE FOR WOMEN",
   "phone": "7339250854",
@@ -1070,12 +1070,12 @@ export default [{
   "college": "Gnanamani College Of Technology",
   "phone": "8760105874",
 }, {
-  "name": "Dr.A.Maheshwari",
+  "name": "Dr. A. Maheshwari",
   "email": "78mahee@gmail.com",
   "college": "SRMIST, KTR Campus",
   "phone": "9884427554",
 }, {
-  "name": "Dr.B.Rasina Begum",
+  "name": "Dr. B. Rasina Begum",
   "email": "rasinayousuf@gmail.com",
   "college": "Mohamed Sathak Engineering College",
   "phone": "9944907872",
@@ -1090,7 +1090,7 @@ export default [{
   "college": "MOHAMED SATHAK ENGINEERING COLLEGE",
   "phone": "9952224083",
 }, {
-  "name": "Rajiya Begum.A",
+  "name": "Rajiya Begum A.",
   "email": "rajiyabegum1138@gmail.com",
   "college": "Al - Ameen Engineering College",
   "phone": "7200266935",
@@ -1100,9 +1100,9 @@ export default [{
   "college": "ANNAMACHARYA INSTITUTE OF TECHNOLOGY AND SCIENCES",
   "phone": "8328056644",
 }, {
-  "name": "C.Balakrishnan",
+  "name": "C. Balakrishnan",
   "email": "balakrishnan@saec.ac.in",
-  "college": "S.A.ENGINEERING COLLEGE",
+  "college": "S. A. ENGINEERING COLLEGE",
   "phone": "9841199597",
 }, {
   "name": "Sasireka V",
@@ -1110,14 +1110,14 @@ export default [{
   "college": "Oxford College Of Engineering",
   "phone": "9865123076",
 }, {
-  "name": "P.Suganthi",
+  "name": "P. Suganthi",
   "email": "suganthi.cse@sairamit.edu.in",
   "college": "Sri Sai Ram Institute Of Technology",
   "phone": "09940291486",
 }, {
-  "name": "Sajitha.L.P",
+  "name": "Sajitha. L. P",
   "email": "lps.csbs@rmkec.ac.in",
-  "college": "R.M.K ENGINEERING COLLEGE",
+  "college": "R. M. K. ENGINEERING COLLEGE",
   "phone": "9003855316",
 }, {
   "name": "Rakesh Sivalingam",
@@ -1135,7 +1135,7 @@ export default [{
   "college": "Vels University - INurture Education Solutions",
   "phone": "9500091253",
 }, {
-  "name": "S.Vidhya",
+  "name": "S. Vidhya",
   "email": "vidhyas2@srmist.edu.in",
   "college": "SRM Institte Of Science And Technology",
   "phone": "9444069002",
@@ -1150,9 +1150,9 @@ export default [{
   "college": "Rathinam Arts And Science College",
   "phone": "9995600186",
 }, {
-  "name": "Dr.A.S. Aneetha",
+  "name": "Dr. A. S. Aneetha",
   "email": "asaneetha.73@gmail.com",
-  "college": "Vels Universities , Pallavaram,  Chennai",
+  "college": "Vels Universities , Pallavaram, Chennai",
   "phone": "9444545065",
 }, {
   "name": "Dr G Arul Dalton",
@@ -1185,15 +1185,15 @@ export default [{
   "college": "Al-ameen Engineering College",
   "phone": "9740320975",
 }, {
-  "name": "Dr.T.Papitha Christobel",
+  "name": "Dr. T. Papitha Christobel",
   "email": "papithat@srmist.edu.in",
   "college": "SRM Institute Of Science And Technology Ramapuram Chennai",
   "phone": "7358088516",
 }, {
-  "name": "A.Shophia",
+  "name": "A. Shophia",
   "email": "ashophia3@gmail.com",
   "college":
-    "Vel Tech High Tech Dr.rangarajan Dr .Sakunthala Engineering College",
+  "Vel Tech High Tech Dr.rangarajan Dr .Sakunthala Engineering College",
   "phone": "7200334984",
 }, {
   "name": "Dr. A Bamila Virgin Louis",
@@ -1201,7 +1201,7 @@ export default [{
   "college": "St.Xavier's Catholic College Of Engineering",
   "phone": "7339181864",
 }, {
-  "name": "A.Jamuna",
+  "name": "A. Jamuna",
   "email": "06jamuna@gmail.com",
   "college": "Mohamed Sathak Engineering College",
   "phone": "7200629198",
@@ -1226,7 +1226,7 @@ export default [{
   "college": "SRM Easwari Engineering College",
   "phone": "9884739822",
 }, {
-  "name": "Dr.P.Thilagavathi",
+  "name": "Dr. P. Thilagavathi",
   "email": "thiuxpriya499@gmail.com",
   "college": "St.Joseph's College Of Engineering , OMR Chennai",
   "phone": "9487885748",
@@ -1236,14 +1236,14 @@ export default [{
   "college": "V. R. Siddhartha Engineering College",
   "phone": "8142754240",
 }, {
-  "name": "Ananthasri.M",
+  "name": "Ananthasri M.",
   "email": "muralitharanananthasri@gmail.com",
   "college": "Easwari Engineering College",
   "phone": "7397631031",
 }, {
   "name": "Prema Kala A",
   "email": "premakala@rediff.com",
-  "college": "Arunachala Arts And Science (Women)  College",
+  "college": "Arunachala Arts And Science (Women) College",
   "phone": "9442303126",
 }, {
   "name": "Jessy Nirmala F",
@@ -1256,7 +1256,7 @@ export default [{
   "college": "BSAR Crescent Institute Of Science And Technology",
   "phone": "9840950469",
 }, {
-  "name": "Bharanidharan.G",
+  "name": "Bharanidharan G.",
   "email": "bharanidharan@thenewcollege.edu.in",
   "college": "THE NEW COLLEGE, CHENNAI-14",
   "phone": "9489471234",
@@ -1266,7 +1266,7 @@ export default [{
   "college": "Annamacharya Institute Of Technology And Sciences",
   "phone": "9640165760",
 }, {
-  "name": "Monisha.N",
+  "name": "Monisha N.",
   "email": "monishanandhakumar81@gmail.com",
   "college": "Muthayammal Engineering College",
   "phone": "8754996820",
@@ -1306,22 +1306,22 @@ export default [{
   "college": "NPR COLLEGE OF ENGINEERING & TECHNOLOGY",
   "phone": "9626297305",
 }, {
-  "name": "S.Priyadharsini",
+  "name": "S. Priyadharsini",
   "email": "1996priyadharsini@gmail.com",
   "college": "NPR COLLEGE OF ENGINEERING AND TECHNOLOGY NATHAM",
   "phone": "8015330089",
 }, {
-  "name": "Dhivya.J",
+  "name": "Dhivya J.",
   "email": "dhivjam@gmail.com",
   "college": "SRM, Easwari Engineering College.",
   "phone": "8925704279",
 }, {
-  "name": "R.Barona",
+  "name": "R. Barona",
   "email": "rbaronajose@gmail.com",
   "college": "St.Xavier's Catholic College Of Engineering",
   "phone": "9442288716",
 }, {
-  "name": "S.Venkata Lakshmi",
+  "name": "S. Venkata Lakshmi",
   "email": "sibbalalakshmi@gmail.com",
   "college": "Annamacharya Institute Of Technology And Sciences",
   "phone": "09398876311",
@@ -1336,7 +1336,7 @@ export default [{
   "college": "KCG College Of Technology",
   "phone": "9952991317",
 }, {
-  "name": "Renisha.P.S",
+  "name": "Renisha P. S.",
   "email": "renisha.ps@gmail.com",
   "college": "Srinvas University",
   "phone": "9500285322",
@@ -1356,7 +1356,7 @@ export default [{
   "college": "Velammal Engineering College",
   "phone": "9884969715",
 }, {
-  "name": "Dr.A.Mohamed Mustaq Ahmed",
+  "name": "Dr.A. Mohamed Mustaq Ahmed",
   "email": "mmmustaq@gmail.com",
   "college": "The New College",
   "phone": "7357400393",
@@ -1371,17 +1371,17 @@ export default [{
   "college": "SRMIST",
   "phone": "+919841276616",
 }, {
-  "name": "Dr.O.Cyril Mathew",
+  "name": "Dr. O. Cyril Mathew",
   "email": "Dr.o.cyrilmathew@gmail.com",
   "college": "Al Ameen Engineering College",
   "phone": "+919585534888",
 }, {
-  "name": "Dr.M.Nalini",
+  "name": "Dr. M. Nalini",
   "email": "drnalini@saec.ac.in",
   "college": "S. A. Engineering College",
   "phone": "9710910110",
 }, {
-  "name": "P.Vimala Imogen",
+  "name": "P. Vimala Imogen",
   "email": "vimalaimogenp@gmail.com",
   "college": "Velammal Engineering College",
   "phone": "9943368843",
@@ -1391,12 +1391,12 @@ export default [{
   "college": "Gnanamani College Of Technology",
   "phone": "9524497810",
 }, {
-  "name": "Goushik Sam.P",
+  "name": "Goushik Sam P.",
   "email": "goushiksam6@gmail.com",
   "college": "KCG College Of Technology",
   "phone": "7358449539",
 }, {
-  "name": "Dr. P.K.A. Chitra",
+  "name": "Dr. P. K. A. Chitra",
   "email": "pkachitra@yahoo.com",
   "college": "Rathinam Group Of Institutions",
   "phone": "9965508527",
@@ -1433,15 +1433,15 @@ export default [{
 }, {
   "name": "Nabeena Ameen",
   "email": "nabeena@crescent.education",
-  "college": "B.S Abdur Rahman Crescent Institute Of Science And Technology",
+  "college": "B. S Abdur Rahman Crescent Institute Of Science And Technology",
   "phone": "9444206295",
 }, {
-  "name": "K.R.Mohan Raj",
+  "name": "K. R. Mohan Raj",
   "email": "mohanraj@velammal.edu.in",
   "college": "Velammal Engineering College",
   "phone": "9600256117",
 }, {
-  "name": "Mrs.B.Chinthamani",
+  "name": "Mrs. B. Chinthamani",
   "email": "chinthamani.b@eec.srmrmp.edu.in",
   "college": "EASWARI ENGINEERING COLLEGE",
   "phone": "9094235700",
@@ -1456,7 +1456,7 @@ export default [{
   "college": "Velammal Engineering College",
   "phone": "9597103115",
 }, {
-  "name": "G.Preethi",
+  "name": "G. Preethi",
   "email": "preethigunasekaranr@gmail.com",
   "college": "Velammal Engineering College",
   "phone": "8248541051",
@@ -1486,7 +1486,7 @@ export default [{
   "college": "Muthayammal Engineering College",
   "phone": "6379889189",
 }, {
-  "name": "H.Jayadharshini",
+  "name": "H. Jayadharshini",
   "email": "jayadharshini@student.tce.edu",
   "college": "Thiagarajar College Of Engineering",
   "phone": "9080013106",
@@ -1501,10 +1501,10 @@ export default [{
   "college": "AL-AMEEN ENGINEERING COLLEGE, ERODE.",
   "phone": "8608143233",
 }, {
-  "name": "Dhananjeyan. S",
+  "name": "Dhananjeyan S.",
   "email": "jeyan.dhanan@gmail.com",
   "college":
-    "Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala Engineering College",
+  "Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala Engineering College",
   "phone": "09488013767",
 }, {
   "name": "Dr. S. M. Vijayarajan",
@@ -1517,7 +1517,7 @@ export default [{
   "college": "Al-Ameen Engineering College",
   "phone": "7373860550",
 }, {
-  "name": "Dr.S.Sajithabanu",
+  "name": "Dr. S. Sajithabanu",
   "email": "sajithabanu24@gmail.com",
   "college": "Mohamed Sathak Engineering College",
   "phone": "09043377040",
@@ -1542,17 +1542,17 @@ export default [{
   "college": "MUTHAYAMMAL ENGINEERING COLLEGE",
   "phone": "6381704240",
 }, {
-  "name": "Dhileepkumar.M",
+  "name": "Dhileepkumar M.",
   "email": "dhileepkumar4366@gmail.com",
   "college": "Jai Shri Ram Engineering College",
   "phone": "9524468966",
 }, {
   "name": "Gajendran M",
   "email": "snpattikaje133@gmail.com",
-  "college": "University V.O.C College Of Engineering, Thoothukudi",
+  "college": "University V. O. C College Of Engineering, Thoothukudi",
   "phone": "9003934741",
 }, {
-  "name": "Abirami.D",
+  "name": "Abirami D.",
   "email": "gdabirami@gmail.com",
   "college": "Vivekananda College Of Arts And Science For Women",
   "phone": "9787406027",
@@ -1577,7 +1577,7 @@ export default [{
   "college": "Al Ameen Engineering College (Autonomous) Erode",
   "phone": "9659576234",
 }, {
-  "name": "P.R.Sheebha Rani",
+  "name": "P. R. Sheebha Rani",
   "email": "sheebarani@sxcce.edu.in",
   "college": "St.Xavier's Catholic College Of Engineering",
   "phone": "9486343650",
@@ -1587,7 +1587,7 @@ export default [{
   "college": "Vivekananda College Of Arts And Science For Women",
   "phone": "8903237270",
 }, {
-  "name": "Mrs.V.Priya",
+  "name": "Mrs. V. Priya",
   "email": "priyav@pmu.edu",
   "college": "Periyar Maniammai Institute Of Science And Technology",
   "phone": "9944813686",
@@ -1612,7 +1612,7 @@ export default [{
   "college": "Periyar Manniammai Institute Of Science And Technology",
   "phone": "8940439171",
 }, {
-  "name": "Dr.M.Mohamed Musthafa",
+  "name": "Dr. M. Mohamed Musthafa",
   "email": "profmusthafa@gmail.com",
   "college": "Al-Ameen Engineering College",
   "phone": "9715309000",
@@ -1637,7 +1637,7 @@ export default [{
   "college": "Bharath Institute Of Higher Education And Research",
   "phone": "7358983325",
 }, {
-  "name": "Dr.A.Revathi",
+  "name": "Dr.A. Revathi",
   "email": "revathia1@srmist.edu.in",
   "college": "SRM Institute Of Science And Technology, Kattankulathur",
   "phone": "9445279539",
@@ -1647,12 +1647,12 @@ export default [{
   "college": "Anjalai Ammal Mahalingam Engineering College",
   "phone": "+918807503495",
 }, {
-  "name": "J.Priya",
+  "name": "J. Priya",
   "email": "pria.manikandan@gmail.com",
   "college": "EASWARI ENGINEERING COLLEGE",
   "phone": "9444771290",
 }, {
-  "name": "M.C.Jayaprasanna",
+  "name": "M. C. Jayaprasanna",
   "email": "mcjaya1979@gmail.com",
   "college": "Anjalai Ammal Mahalingam Engineering College",
   "phone": "8610829348",
@@ -1712,7 +1712,7 @@ export default [{
   "college": "Muthayammal Engineering College",
   "phone": "9994983309",
 }, {
-  "name": "M.N.Kavitha",
+  "name": "M. N. Kavitha",
   "email": "kavithafeb1@gmail.com",
   "college": "Kongu Engineering College",
   "phone": "9843594196",
@@ -1722,12 +1722,12 @@ export default [{
   "college": "Jayaraj Annapackiam CSI College Of Engineering",
   "phone": "9788123607",
 }, {
-  "name": "Saraswathi.T",
+  "name": "Saraswathi T.",
   "email": "saraswathi.t@eec.srmrmp.edu.in",
   "college": "Easwari Engineering College",
   "phone": "9092737675",
 }, {
-  "name": "M.C.Sheeba",
+  "name": "M. C. Sheeba",
   "email": "sheeba@sxcce.edu.in",
   "college": "St.Xavier's Catholic College Of Engineering",
   "phone": "9486635851",
@@ -1735,7 +1735,7 @@ export default [{
   "name": "Dr S Jayasankari",
   "email": "sjayasankari1978@gmail.com",
   "college":
-    "SRM Institute Of Science And Technology (SRMIST) Tiruchirappalli Campus",
+  "SRM Institute Of Science And Technology (SRMIST) Tiruchirappalli Campus",
   "phone": "09944690213",
 }, {
   "name": "Ranjini Mupra P",
@@ -1773,7 +1773,7 @@ export default [{
   "college": "Srm Easwari Engineering College",
   "phone": "9962001729",
 }, {
-  "name": "Dr.T.R.Muhibur Rahman",
+  "name": "Dr. T. R. Muhibur Rahman",
   "email": "muhibr19@gmail.com",
   "college": "Ballari Institute Of Technology And Management",
   "phone": "9986239490",
@@ -1798,7 +1798,7 @@ export default [{
   "college": "KONGU ENGINEERING COLLEGE",
   "phone": "9786005629",
 }, {
-  "name": "G.Dheepak",
+  "name": "G. Dheepak",
   "email": "dg6154@srmist.edu.in",
   "college": "SRM INSTITUTE OF SCIENCE AND TECHNOLOGY, VADAPALANI CAMPUS",
   "phone": "9003097115",
@@ -1813,7 +1813,7 @@ export default [{
   "college": "Vellore Institute Of Technology, Chennai Campus",
   "phone": "9840546118",
 }, {
-  "name": "Dr.Janani V S",
+  "name": "Dr. Janani V S",
   "email": "janani.vs@eec.srmrmp.edu.in",
   "college": "Easwari Engineering College",
   "phone": "9443622700",
@@ -1868,14 +1868,14 @@ export default [{
   "college": "MEASI Institute Of Information Technology",
   "phone": "9791294417",
 }, {
-  "name": "Dr.M.Revathi",
+  "name": "Dr. M. Revathi",
   "email": "revathiirtt@gmail.com",
   "college": "Measi Institute Of Technology",
   "phone": "7708946486",
 }, {
   "name": "Shobana R",
   "email": "shobana@saec.ac.in",
-  "college": "S.A.Engineering College",
+  "college": "S. A. Engineering College",
   "phone": "9790774043",
 }, {
   "name": "S Kingsley",
@@ -1883,14 +1883,14 @@ export default [{
   "college": "Easwari Engineering College",
   "phone": "9940381670",
 }, {
-  "name": "A.K.Mohammed Ghouse",
+  "name": "A. K. Mohammed Ghouse",
   "email": "Ghousemdnew@gmail.com",
   "college": "Measi Institute Of Information Technology",
   "phone": "9790706556",
 }, {
   "name": "Annal Priyadarshini D",
   "email": "2106401@saec.ac.in",
-  "college": "S.A ENGINEERING COLLEGE",
+  "college": "S. A ENGINEERING COLLEGE",
   "phone": "9677098760",
 }, {
   "name": "Dr. G. Kiruthiga",
@@ -1898,9 +1898,9 @@ export default [{
   "college": "Guru Nanak College",
   "phone": "9444327133",
 }, {
-  "name": "Indira.V",
+  "name": "Indira V.",
   "email": "2106402@saec.ac.in",
-  "college": "S.A ENGINEERING COLLEGE",
+  "college": "S. A ENGINEERING COLLEGE",
   "phone": "7401812149",
 }, {
   "name": "Jahina J",
@@ -1908,14 +1908,14 @@ export default [{
   "college": "Nandha Engineering College",
   "phone": "9788658885",
 }, {
-  "name": "Dr.R.Reena Roy",
+  "name": "Dr. R. Reena Roy",
   "email": "reenaroy.r@vit.ac.in",
   "college": "Vellore Institute Of Technology, Chennai",
   "phone": "9080154711",
 }, {
-  "name": "Dr.Chitra Devi D",
+  "name": "Dr. Chitra Devi D",
   "email": "chitradanya@gmail.com",
-  "college": "S.A.ENGINEERING COLLEGE",
+  "college": "S. A. ENGINEERING COLLEGE",
   "phone": "9789802600",
 }, {
   "name": "Giriprasath K S",
@@ -1928,7 +1928,7 @@ export default [{
   "college": "AL-AMEEN ENGINEERING COLLEGE",
   "phone": "9842038635",
 }, {
-  "name": "Dr.G.Saravanan",
+  "name": "Dr. G. Saravanan",
   "email": "gsaravanan.pacet@gmail.com",
   "college": "Erode Sengunthar Engineering College",
   "phone": "9894379369",
@@ -1938,17 +1938,17 @@ export default [{
   "college": "Nandha Engineering College",
   "phone": "8056714179",
 }, {
-  "name": "M.Sailaja",
+  "name": "M. Sailaja",
   "email": "sailajacse@recw.ac.in",
   "college": "Ravindra Engineering College For Women",
   "phone": "9492624763",
 }, {
   "name": "Kalaiselvan V",
   "email": "vkalaiselvan143@gmail.com",
-  "college": "M.P.Nachimuthu M.jaganathan Engineering College",
+  "college": "M. P. Nachimuthu M. jaganathan Engineering College",
   "phone": "935475372",
 }, {
-  "name": "P.Vanjipriya",
+  "name": "P. Vanjipriya",
   "email": "vanjipriya1820@gmail.com",
   "college": "Dr.Magalingam College Of Engineering And Technology",
   "phone": "8248973907",
@@ -1958,7 +1958,7 @@ export default [{
   "college": "Al-Ameen Engineering College",
   "phone": "8508192877",
 }, {
-  "name": "Ms.Saradha R.",
+  "name": "Ms. Saradha R. ",
   "email": "Saradha303@gmail.com",
   "college": "Sri Kanyaka Parameswari Arts And Science College For Women",
   "phone": "6369399300",
@@ -1993,7 +1993,7 @@ export default [{
   "college": "NPR College Of Engineering And Technology",
   "phone": "9514075739",
 }, {
-  "name": "S.Saranya",
+  "name": "S. Saranya",
   "email": "chellammalsaran@gmail.com",
   "college": "Velammal Engineering College",
   "phone": "9500935096",
@@ -2013,9 +2013,9 @@ export default [{
   "college": "Saveetha Engineering College",
   "phone": "9790644896",
 }, {
-  "name": "Deepana.D",
+  "name": "Deepana D.",
   "email": "deepanapostbox@gmail.com",
-  "college": "M.P.NACHIMUTHU.M.JAGANATHAN.ENGINEERING COLLEGE",
+  "college": "M. P. NACHIMUTHU. M. JAGANATHAN. ENGINEERING COLLEGE",
   "phone": "8610184780",
 }, {
   "name": "Preethi P",
@@ -2023,7 +2023,7 @@ export default [{
   "college": "Saveetha Engineering College",
   "phone": "8608721755",
 }, {
-  "name": "K.S.Rekha",
+  "name": "K. S. Rekha",
   "email": "ksrekha3@yahoo.com",
   "college": "SAVEETHA ENGINEERING COLLEGE",
   "phone": "9176612103",
@@ -2035,7 +2035,7 @@ export default [{
 }, {
   "name": "Mrs. Hemavathi",
   "email": "hemavathi.ece@bmsce.ac.in",
-  "college": "B.M.S. College Of Engineering",
+  "college": "B. M. S. College Of Engineering",
   "phone": "9845659916",
 }, {
   "name": "Pooja A P",
@@ -2048,7 +2048,7 @@ export default [{
   "college": "Saveetha School Of Engineering, SIMATS, Chennai",
   "phone": "9442572386",
 }, {
-  "name": "G.Maaalakshmi",
+  "name": "G. Maaalakshmi",
   "email": "mahaalakshmi22@gmail.com",
   "college": "",
   "phone": "",
@@ -2058,7 +2058,7 @@ export default [{
   "college": "SRM Ramapuram",
   "phone": "8590237664",
 }, {
-  "name": "B.Chandra",
+  "name": "B. Chandra",
   "email": "chandra.b@eec.srmrmp.edu.in",
   "college": "EASWARI ENGINEERING COLLEGE",
   "phone": "9626511343",
@@ -2073,14 +2073,14 @@ export default [{
   "college": "Velammal Engineering College",
   "phone": "9994428780",
 }, {
-  "name": "G.Valarmathi",
+  "name": "G. Valarmathi",
   "email": "valarmathi.ece@sairamit.edu.in",
   "college": "Sri Sairam Institute Of Technology",
   "phone": "9789992329",
 }, {
   "name": "Thanigaivel G",
-  "email": "TLG.CSE@RMKEC.AC.IN",
-  "college": "R.M.K. COLLEGE OF ENGINEERING",
+  "email": "TLG. CSE@RMKEC. AC. IN",
+  "college": "R. M. K. COLLEGE OF ENGINEERING",
   "phone": "6379452757",
 }, {
   "name": "Shankar K",
@@ -2093,12 +2093,12 @@ export default [{
   "college": "BMS College Of Engineering, Basavanaudi, Bengaluru",
   "phone": "9886235463",
 }, {
-  "name": "Dr.L.Thomas Robinson",
+  "name": "Dr. L. Thomas Robinson",
   "email": "son.mca@gmail.com",
   "college": "Nanjil Catholic College Of Arts And Science",
   "phone": "7598865050",
 }, {
-  "name": "Dr.K Seshadri Ramana",
+  "name": "Dr. K Seshadri Ramana",
   "email": "ramana.kothapalli@gmail.com",
   "college": "Ravindra College Of Engineering For Women",
   "phone": "9885208518",
@@ -2108,9 +2108,9 @@ export default [{
   "college": "Rohini College Of Engineering",
   "phone": "9486388577",
 }, {
-  "name": "A.Adaikkammai",
+  "name": "A. Adaikkammai",
   "email": "adaikkammai@saec.ac.in",
-  "college": "S.A Engineering College",
+  "college": "S. A Engineering College",
   "phone": "9094224661",
 }, {
   "name": "Raaga Priya Jk",
@@ -2158,7 +2158,7 @@ export default [{
   "college": "SRM",
   "phone": "9789985395",
 }, {
-  "name": "R.Rejith",
+  "name": "R. Rejith",
   "email": "rejithece@gmail.com",
   "college": "Bharath Niketan Polytechnic College",
   "phone": "9360485442",
@@ -2183,7 +2183,7 @@ export default [{
   "college": "SRM Institute Of Science And Technology, Ramapuram",
   "phone": "9940532854",
 }, {
-  "name": "M.Bhanumathi",
+  "name": "M. Bhanumathi",
   "email": "bhanuksm@gmail.com",
   "college": "Vels Institute Of Science, Technology & Advanced Studies(VISTAS)",
   "phone": "9500039839",
@@ -2208,7 +2208,7 @@ export default [{
   "college": "Jerusalem College Of Engineering",
   "phone": "9894226675",
 }, {
-  "name": "M.Mohamed Imran",
+  "name": "M. Mohamed Imran",
   "email": "mohamedimran26102003@gmail.com",
   "college": "MUTHAYAMMAL ENGINEERING COLLEGE",
   "phone": "9578080877",
@@ -2218,14 +2218,14 @@ export default [{
   "college": "SRM IST, TIRUCHIRAPALLI",
   "phone": "09167562142",
 }, {
-  "name": "Dr.M.Nithya",
+  "name": "Dr. M. Nithya",
   "email": "Nithya.cse@sairam.edu.in",
   "college": "Sri Sairam Engineeering College",
   "phone": "9600133277",
 }, {
   "name": "S Lakshmi",
   "email": "lakshmisubash04@gmail.com",
-  "college": "SRMIST,  Ramapuram",
+  "college": "SRMIST, Ramapuram",
   "phone": "9500757054",
 }, {
   "name": "Krishna Kanth",
@@ -2233,7 +2233,7 @@ export default [{
   "college": "Rajalakshmi Institute Of Technology",
   "phone": "9442052946",
 }, {
-  "name": "A.Sathiya",
+  "name": "A. Sathiya",
   "email": "sathya.ai@sairamit.edu.in",
   "college": "Sri Sai Ram Institute Of Technology",
   "phone": "8760284186",
@@ -2243,15 +2243,15 @@ export default [{
   "college": "St. Joseph's College Of Engineering",
   "phone": "9444459673",
 }, {
-  "name": "Dr.D.Sasirekha",
+  "name": "Dr. D. Sasirekha",
   "email": "sasirekha.july03@gmail.com",
   "college": "ANNA ADARSH COLLEGE FOR WOMEN",
   "phone": "9962832229",
 }, {
-  "name": "N.Mohana Suganthi",
+  "name": "N. Mohana Suganthi",
   "email": "mohanasuganthin@veltech.edu.in",
   "college":
-    "Vel Tech Rangarajan Dr.Sagunthala R&D Institute Of Science And Technology",
+  "Vel Tech Rangarajan Dr.Sagunthala R&D Institute Of Science And Technology",
   "phone": "7904098437",
 }, {
   "name": "Dr Kulasekharan Narasingamurthi",
@@ -2266,7 +2266,7 @@ export default [{
 }, {
   "name": "Rithika.P",
   "email": "rithikampn68120@gmail.com",
-  "college": "M.P.NACHIMUTHU M.JAGANATHAN ENGINEERING COLLEGE",
+  "college": "M. P. NACHIMUTHU M. JAGANATHAN ENGINEERING COLLEGE",
   "phone": "6381050672",
 }, {
   "name": "Dr. Priyanka M",
@@ -2289,17 +2289,17 @@ export default [{
   "college": "Knowledge Institute Of Technology",
   "phone": "9600410187",
 }, {
-  "name": "Naveena.S",
+  "name": "Naveena S.",
   "email": "naveenarekha19@gmail.com",
-  "college": "M.P.Nachimuthu M.Jaganathan Engineering College",
+  "college": "M. P. Nachimuthu M. Jaganathan Engineering College",
   "phone": "9524686869",
 }, {
-  "name": "Dr.Umamaheswari K",
+  "name": "Dr. Umamaheswari K",
   "email": "umaragsug@gmail.com",
   "college": "SRM TRP Engineering College",
   "phone": "9894491239",
 }, {
-  "name": "Omprakash.K",
+  "name": "Omprakash K.",
   "email": "prakashperk@gmail.com",
   "college": "Al-Ameen Engineering College",
   "phone": "9629513466",
@@ -2309,18 +2309,18 @@ export default [{
   "college": "M P Nachimuthu M Jaganathan Engineering College",
   "phone": "8344096226",
 }, {
-  "name": "R.Sowmyalakshmi",
+  "name": "R. Sowmyalakshmi",
   "email": "sowmyalakshmi@aubit.edu.in",
   "college": "University College Of Engineering (BIT Campus), Trichy",
   "phone": "9442582113",
 }, {
-  "name": "Jayasri.S",
+  "name": "Jayasri S.",
   "email": "happymeshri@gmail.com",
   "college": "Muthayammal Engineering College",
   "phone": "9786763777",
 }, {
-  "name": "Dr.K.Latha",
-  "email": "LathaK.CSE@sairam.edu.in",
+  "name": "Dr. K. Latha",
+  "email": "LathaK. CSE@sairam.edu.in",
   "college": "Sri Sairam Engineering College",
   "phone": "09940308527",
 }, {
@@ -2349,14 +2349,14 @@ export default [{
   "college": "Andhra University",
   "phone": "8886866262",
 }, {
-  "name": "Dr.U.Sakthi",
+  "name": "Dr. U. Sakthi",
   "email": "sakthiu@srmist.edu.in",
   "college": "SRM Institute Of Technology, KTR.",
   "phone": "09444851523",
 }, {
   "name": "Dr Ar Arunarani",
   "email": "arunaraa@srmist.edu.in",
-  "college": "SRM Institute Science And  Technology, Kattankulathur",
+  "college": "SRM Institute Science And Technology, Kattankulathur",
   "phone": "9840231822",
 }, {
   "name": "Ramya N",
@@ -2364,7 +2364,7 @@ export default [{
   "college": "Sri Sairam Engineering College",
   "phone": "9962270701",
 }, {
-  "name": "P.V.Hemavathi",
+  "name": "P. V. Hemavathi",
   "email": "hemasudharsan86@gmail.com",
   "college": "VEL'S UNIVERSITY",
   "phone": "9444481602",
@@ -2379,7 +2379,7 @@ export default [{
   "college": "Vellalar College For Women(Autonomous), Erode",
   "phone": "9080059134",
 }, {
-  "name": "Dr.S.Amudha",
+  "name": "Dr. S. Amudha",
   "email": "amudhas@srmist.edu.in",
   "college": "SRMIST",
   "phone": "9791994531",
@@ -2419,19 +2419,19 @@ export default [{
   "college": "SRM Institute Of Science And Technology",
   "phone": "9976233060",
 }, {
-  "name": "Dr.K.Lalitha Devi",
+  "name": "Dr. K. Lalitha Devi",
   "email": "lalithak1@srmist.edu.in",
   "college": "SRM IST, Ramapuram",
   "phone": "9176454505",
 }, {
-  "name": "Dr.S.Gomathi",
+  "name": "Dr. S. Gomathi",
   "email": "gomathiganesh1978@gmail.com",
   "college": "SDNB Vaishnav College For Women",
   "phone": "9840676224",
 }, {
-  "name": "Agnes Sheila S.P.",
+  "name": "Agnes Sheila S. P.",
   "email": "agnesisrael@gmail.com",
-  "college": "S.D.N.B.Vaishnav College For Women",
+  "college": "S. D. N. B. Vaishnav College For Women",
   "phone": "9444573953",
 }, {
   "name": "Dr Palanimani P G",
@@ -2439,7 +2439,7 @@ export default [{
   "college": "Erode Sengunthar Engineering College",
   "phone": "9486783867",
 }, {
-  "name": "B.Vishnu Prabha",
+  "name": "B. Vishnu Prabha",
   "email": "vishnuprabha.be@gmail.con",
   "college": "Jeppiaar Institute Of Technology",
   "phone": "9789881335",
@@ -2459,7 +2459,7 @@ export default [{
   "college": "Sri Sairam Engineering College",
   "phone": "9710173753",
 }, {
-  "name": "Srinivasan M.L",
+  "name": "Srinivasan M. L",
   "email": "srinivasanml@jeppiaarinstitute.irg",
   "college": "Jeppiaar Institute Of Technology",
   "phone": "9944159667",
@@ -2474,7 +2474,7 @@ export default [{
   "college": "MOHAMED SATHAK ENGINEERING COLLEGE",
   "phone": "8903100948",
 }, {
-  "name": "M.Subbulakshmi",
+  "name": "M. Subbulakshmi",
   "email": "lakshmima88@gmail.com",
   "college": "Vels University",
   "phone": "8610097895",
@@ -2496,7 +2496,7 @@ export default [{
 }, {
   "name": "Sowmmeeya N",
   "email": "sowmmeeyanagarajan@gmail.com",
-  "college": "M. P. Nachimuthu M.Jaganathan Engineering College",
+  "college": "M. P. Nachimuthu M. Jaganathan Engineering College",
   "phone": "6374135995",
 }, {
   "name": "Ruba A",
@@ -2529,22 +2529,22 @@ export default [{
   "college": "TECHVIEW COMPUTER INSTITUTE",
   "phone": "7994115576",
 }, {
-  "name": "N.Hemakumari",
+  "name": "N. Hemakumari",
   "email": "hemakumari@msec.org.in",
   "college": "Mohamed Sathak Engineering College",
   "phone": "9843239515",
 }, {
-  "name": "S.Jeevitha",
+  "name": "S. Jeevitha",
   "email": "jeevitha.s@sdnbvc.edu.in",
   "college": "SDNB Vaishnav College For Women",
   "phone": "9842896093",
 }, {
-  "name": "Sudhanraja S",
+  "name": "Sudhanraja S ",
   "email": "maheshsr1603@gmail.com",
   "college": "Rathinam College Of Arts And Science",
   "phone": "9952217328",
 }, {
-  "name": "Dr.S.Rajeswari",
+  "name": "Dr.S. Rajeswari",
   "email": "vrajee2008@gmail.com",
   "college": "Shrimathi Devkunvar Nanalal Bhatt Vaishnav College For Women",
   "phone": "8925699506",
@@ -2574,27 +2574,27 @@ export default [{
   "college": "Rathinam College Of Arts And Science",
   "phone": "6383122707",
 }, {
-  "name": "Dr. G.Vijaya",
+  "name": "Dr. G. Vijaya",
   "email": "vijayag@skcet.ac.in",
   "college": "Sri Krishna College Of Engineering And Technology",
   "phone": "9003925163",
 }, {
-  "name": "Dr.D.Rasi",
+  "name": "Dr. D. Rasi",
   "email": "rasid@skcet.ac.in",
   "college": "Sri Krishna College Of Engineering And Technology",
   "phone": "9442456603",
 }, {
   "name": "Rajeshwari D",
   "email": "rajeshwari.d@sdnbvc.edu.in",
-  "college": "S.D.N.B Vaishnav College For Women",
+  "college": "S. D. N. B Vaishnav College For Women",
   "phone": "9841126134",
 }, {
   "name": "Dr K Chithra",
   "email": "kkchithracc@gmail.com",
-  "college": "Shrimathi Devkunvar Nanalal  Bhatt  Vaishnav College  For Women",
+  "college": "Shrimathi Devkunvar Nanalal Bhatt Vaishnav College For Women",
   "phone": "8144178400",
 }, {
-  "name": "N.Pavithra",
+  "name": "N. Pavithra",
   "email": "Pavisai1527@gmail.com",
   "college": "Jeppiaar Institute Of Technology",
   "phone": "9488875061",
@@ -2609,12 +2609,12 @@ export default [{
   "college": "Saveetha Engineering College",
   "phone": "9486946972",
 }, {
-  "name": "S.Abinesh",
+  "name": "S. Abinesh",
   "email": "Sabinesh978@gmail.com",
-  "college": "M.P.Nachimuthu M.Jaganathan Engineering College",
+  "college": "M. P. Nachimuthu M. Jaganathan Engineering College",
   "phone": "9655833099",
 }, {
-  "name": "A.Richard William",
+  "name": "A. Richard William",
   "email": "richwill09@gmail.com",
   "college": "Er Perumal Manimegalai College Of Engineering Hosur",
   "phone": "9894984847",
@@ -2624,7 +2624,7 @@ export default [{
   "college": "Maha Barathi Enginnering College",
   "phone": "9342630250",
 }, {
-  "name": "Dr. K.B.Ramesh",
+  "name": "Dr. K. B. Ramesh",
   "email": "rameshkb@rvce.edu.in",
   "college": "RV College Of Engineering",
   "phone": "9342522399",
@@ -2644,8 +2644,8 @@ export default [{
   "college": "SRM TRP ENGINEERING COLLEGE",
   "phone": "9524484299",
 }, {
-  "name": "K.Aleenshylaja",
-  "email": "K.ALEENSHYLAJA",
+  "name": "K. Aleenshylaja",
+  "email": "K. ALEENSHYLAJA",
   "college": "Parisutham Institute Of Technology And Science",
   "phone": "8610720677",
 }, {
@@ -2664,7 +2664,7 @@ export default [{
   "college": "VIT, Chennai",
   "phone": "+919884228402",
 }, {
-  "name": "D.Satheeswari",
+  "name": "D. Satheeswari",
   "email": "satheeswariyuvarajan@gmail.com",
   "college": "Meenakshi College Of Engineering",
   "phone": "7299252315",
@@ -2674,7 +2674,7 @@ export default [{
   "college": "Jaya Engineering College",
   "phone": "9487215155",
 }, {
-  "name": "Dr.N.Kanimozhi",
+  "name": "Dr. N. Kanimozhi",
   "email": "kanimozhi.na@gmail.com",
   "college": "SRM Institute Of Science And Technology",
   "phone": "9841070847",
