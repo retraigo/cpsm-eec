@@ -1359,7 +1359,7 @@ export default [{
   "name": "Dr. A. Mohamed Mustaq Ahmed",
   "email": "mmmustaq@gmail.com",
   "college": "The New College",
-  "phone": "7357400393",
+  "phone": "7358400393",
 }, {
   "name": "Prasanth T",
   "email": "tprasanth3@gmail.com",
@@ -1958,7 +1958,7 @@ export default [{
   "college": "Al-Ameen Engineering College",
   "phone": "8508192877",
 }, {
-  "name": "Ms. Saradha R. ",
+  "name": "Ms. Saradha R.",
   "email": "Saradha303@gmail.com",
   "college": "Sri Kanyaka Parameswari Arts And Science College For Women",
   "phone": "6369399300",
