@@ -2376,7 +2376,7 @@ export default [{
 }, {
   "name": "Dr. A. Revathi",
   "email": "revathi16@gmail.com",
-  "college": "Vellalar College For Women(Autonomous), Erode",
+  "college": "Vellalar College For Women (Autonomous), Erode",
   "phone": "9080059134",
 }, {
   "name": "Dr. S. Amudha",
@@ -2708,4 +2708,14 @@ export default [{
   "email": "",
   "college": "Amrita College of Engineering and Technology",
   "phone": "9944840240",
+}, {
+  "name": "Dr. C J Raman",
+  "email": "cjramancj@gmail.com",
+  "college": "St. Joseph's College of Engineering",
+  "phone": "9994030069",
+}, {
+  "name": "J. Dhilipan",
+  "email": "",
+  "college": "SRM Institute of Science and Technology Ramapuram Campus",
+  "phone": "",
 }];

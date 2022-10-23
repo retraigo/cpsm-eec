@@ -25,7 +25,11 @@ export default function Home() {
           FDP on Data Science Tools
         </div>
       </div>
-      <Cert />
+      {/*<Cert />*/}
+      <div class="text-2xl font-semibold text-center">
+        This website is temporarily down until 26th of October due to an issue with the event date
+        displayed on the certificate. 
+      </div>
     </div>
   );
 }
