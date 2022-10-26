@@ -50,7 +50,7 @@ ctx.strokeStyle = "#1445a1";
   ctx.fillText(
     `${name}`,
     1500,
-    1100,
+    1150,
   );
 
   ctx.font = applyText(
@@ -60,7 +60,7 @@ ctx.strokeStyle = "#1445a1";
   ctx.fillText(
     `${college}`,
     600,
-    1270,
+    1320,
   );
 
   return canvas.toDataURL();

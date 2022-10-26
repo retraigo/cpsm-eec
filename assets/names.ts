@@ -987,7 +987,7 @@ export default [{
 }, {
   "name": "Anitha K",
   "email": "ani.kcsice@Gmail.com",
-  "college": "AL AMEEN ENGINEERING COLLEGE",
+  "college": "Al Ameen Engineering College",
   "phone": "9943082983",
 }, {
   "name": "Sheena K M",
@@ -1564,7 +1564,7 @@ export default [{
 }, {
   "name": "Surya. K",
   "email": "sk4421003@gmail.com",
-  "college": "University Voc College Of Engineering, Thoothukudi",
+  "college": "University Voc College Of Engineering",
   "phone": "6385614166",
 }, {
   "name": "Faiza S",
@@ -1574,7 +1574,7 @@ export default [{
 }, {
   "name": "Manimekalai J",
   "email": "manimekalaimaths@gmail.com",
-  "college": "Al Ameen Engineering College (Autonomous) Erode",
+  "college": "Al Ameen Engineering College",
   "phone": "9659576234",
 }, {
   "name": "P. R. Sheebha Rani",
@@ -2713,6 +2713,11 @@ export default [{
   "email": "cjramancj@gmail.com",
   "college": "St. Joseph's College of Engineering",
   "phone": "9994030069",
+}, {
+  "name": "Vigneshkumar R.",
+  "email": "vignesh1460@gmail.com",
+  "college": "Muthayammal Engineering College",
+  "phone": "7904111460",
 }, {
   "name": "J. Dhilipan",
   "email": "",
