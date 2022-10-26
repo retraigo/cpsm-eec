@@ -1466,7 +1466,7 @@ export default [{
   "college": "ICMR NIE",
   "phone": "7397228836",
 }, {
-  "name": "Svlcse@tce.Edu",
+  "name": "S. Vijayalakshmi",
   "email": "svlcse@tce.edu",
   "college": "Thiagarajar College Of Engineering",
   "phone": "9244213474",
