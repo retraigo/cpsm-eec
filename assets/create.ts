@@ -60,7 +60,7 @@ ctx.strokeStyle = "#1445a1";
   ctx.fillText(
     `${college}`,
     600,
-    1320,
+    1330,
   );
 
   return canvas.toDataURL();
