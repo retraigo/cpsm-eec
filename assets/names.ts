@@ -550,7 +550,7 @@ export default [{
 }, {
   "name": "K. Priyadharshini",
   "email": "priyadharshinik@stjosephs.ac.in",
-  "college": "St.Joseph's College Of Engineering, Chennai -119",
+  "college": "St.Joseph's College Of Engineering",
   "phone": "9677009534",
 }, {
   "name": "Hema Malini G B",
@@ -560,7 +560,7 @@ export default [{
 }, {
   "name": "K. Mekala Devi",
   "email": "mk3229@srmist.edu.in",
-  "college": "SRMIST, KATTANKULATHUR",
+  "college": "SRMIST, Kattankulathur",
   "phone": "9940468111",
 }, {
   "name": "R. Ashwini",
@@ -2723,6 +2723,11 @@ export default [{
   "email": "lsisreviving@gmail.com",
   "college": "Nadar Saraswathi College of Engineering & Technology",
   "phone": "9865717042",
+}, {
+  "name": "V. Priya",
+  "email": "spsivapriya5@gmail.com",
+  "college": "St. Joseph's College of Engineering and Technology",
+  "phone": "8248519964",
 }, {
   "name": "J. Dhilipan",
   "email": "",
