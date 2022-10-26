@@ -2719,6 +2719,11 @@ export default [{
   "college": "Muthayammal Engineering College",
   "phone": "7904111460",
 }, {
+  "name": "L. S. Vignesh",
+  "email": "lsisreviving@gmail.com",
+  "college": "Nadar Saraswathi College of Engineering & Technology",
+  "phone": "9865717042",
+}, {
   "name": "J. Dhilipan",
   "email": "",
   "college": "SRM Institute of Science and Technology Ramapuram Campus",
