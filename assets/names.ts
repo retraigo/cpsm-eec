@@ -1855,7 +1855,7 @@ export default [{
   "name": "Mohammed Kabirudeen",
   "email": "tajkabir820@gmail",
   "college": "Rajalakshmi Institute Of Technology",
-  "phone": "9849214882",
+  "phone": "9840214882",
 }, {
   "name": "Dr. S. Saradha",
   "email": "saradha.research@gmail.com",
@@ -2757,4 +2757,9 @@ export default [{
   "email": "reenadevi1980@gmail.com",
   "college": "Sri Sarada Niketan College",
   "phone": "9894597727",
+}, {
+  "name": "Pandiyarajan P.",
+  "email": "pandi.knp@gmail.com",
+  "college": "Rathinam College of Arts and Science",
+  "phone": "9865399283",
 }];
