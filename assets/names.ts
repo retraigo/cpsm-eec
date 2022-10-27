@@ -292,7 +292,7 @@ export default [{
   "name": "Dr.K. Vijayalakshmi",
   "email": "vijaylak@srmist.edu.in",
   "college":
-  "S. R. M. Institute Of Science And Technology, Kattankulathur, Chennai.",
+    "S. R. M. Institute Of Science And Technology, Kattankulathur, Chennai.",
   "phone": "8681998954",
 }, {
   "name": "S. Maheswari",
@@ -308,7 +308,7 @@ export default [{
   "name": "Francis Thivya A",
   "email": "jaswanthars2317@gmail.com",
   "college":
-  "St. Joseph's College Of Engineering And Technology, Elupatti, Thanjavur",
+    "St. Joseph's College Of Engineering And Technology, Elupatti, Thanjavur",
   "phone": "8825554097",
 }, {
   "name": "Mrs. S. Benil Jeniffer",
@@ -342,8 +342,8 @@ export default [{
   "phone": "9600981800",
 }, {
   "name": "R Lavanya",
-  "email": "lavanyaarul1609@gmail.com",
-  "college": "SRIRAM ENGINEERING COLLEGE PERUMALPATTU CHENNAI-602 024",
+  "email": "lavabanu1590@gmail.com",
+  "college": "Sriram Engineering College",
   "phone": "8248391117",
 }, {
   "name": "R. Sumathi",
@@ -478,8 +478,7 @@ export default [{
 }, {
   "name": "K. Anitha",
   "email": "anitha.kalimuthu@gmail.com",
-  "college":
-  "Alagappa University, Karaikudi",
+  "college": "Alagappa University, Karaikudi",
   "phone": "6382259491",
 }, {
   "name": "Aswin S",
@@ -545,7 +544,7 @@ export default [{
   "name": "K. Rajkumar",
   "email": "krajkumar@veltech.edu.in",
   "college":
-  "Vel Tech Rangarajan Dr.Sagunthala R&D Institute Of Science And Technology",
+    "Vel Tech Rangarajan Dr.Sagunthala R&D Institute Of Science And Technology",
   "phone": "8122948032",
 }, {
   "name": "K. Priyadharshini",
@@ -681,7 +680,7 @@ export default [{
   "name": "Vishwa Priya V",
   "email": "vishwapriya13@gmail.com",
   "college":
-  "VISTAS Vels Institution Of Science Technology And Advanced Studies",
+    "VISTAS Vels Institution Of Science Technology And Advanced Studies",
   "phone": "9962281292",
 }, {
   "name": "S. Gnanapriya",
@@ -772,7 +771,7 @@ export default [{
   "name": "Dr. Sampada Gulavani",
   "email": "sg4906@gmail.com",
   "college":
-  "Bharati Vidyapeeth(Deemed To Be University) Institute Of Management, Kolhapur",
+    "Bharati Vidyapeeth(Deemed To Be University) Institute Of Management, Kolhapur",
   "phone": "9890677201",
 }, {
   "name": "Aarthi B",
@@ -1193,7 +1192,7 @@ export default [{
   "name": "A. Shophia",
   "email": "ashophia3@gmail.com",
   "college":
-  "Vel Tech High Tech Dr.rangarajan Dr .Sakunthala Engineering College",
+    "Vel Tech High Tech Dr.rangarajan Dr .Sakunthala Engineering College",
   "phone": "7200334984",
 }, {
   "name": "Dr. A Bamila Virgin Louis",
@@ -1504,7 +1503,7 @@ export default [{
   "name": "Dhananjeyan S.",
   "email": "jeyan.dhanan@gmail.com",
   "college":
-  "Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala Engineering College",
+    "Vel Tech Multi Tech Dr.Rangarajan Dr.Sakunthala Engineering College",
   "phone": "9488013767",
 }, {
   "name": "Dr. S. M. Vijayarajan",
@@ -1735,7 +1734,7 @@ export default [{
   "name": "Dr S Jayasankari",
   "email": "sjayasankari1978@gmail.com",
   "college":
-  "SRM Institute Of Science And Technology (SRMIST) Tiruchirappalli Campus",
+    "SRM Institute Of Science And Technology (SRMIST) Tiruchirappalli Campus",
   "phone": "9944690213",
 }, {
   "name": "Ranjini Mupra P",
@@ -2045,7 +2044,7 @@ export default [{
 }, {
   "name": "Blessy J",
   "email": "blessyben298@gmail.com",
-  "college": "Saveetha School Of Engineering, SIMATS, Chennai",
+  "college": "St. Xavier's Catholic College of Engineering",
   "phone": "9442572386",
 }, {
   "name": "G. Maaalakshmi",
@@ -2251,7 +2250,7 @@ export default [{
   "name": "N. Mohana Suganthi",
   "email": "mohanasuganthin@veltech.edu.in",
   "college":
-  "Vel Tech Rangarajan Dr.Sagunthala R&D Institute Of Science And Technology",
+    "Vel Tech Rangarajan Dr.Sagunthala R&D Institute Of Science And Technology",
   "phone": "7904098437",
 }, {
   "name": "Dr Kulasekharan Narasingamurthi",
@@ -2729,8 +2728,33 @@ export default [{
   "college": "St. Joseph's College of Engineering and Technology",
   "phone": "8248519964",
 }, {
+  "name": "J Paul Rajasingh",
+  "email": "paulj@srmist.edu.in",
+  "college": "SRM Institute of Science and Technology Trichy",
+  "phone": "9841214499",
+}, {
   "name": "J. Dhilipan",
   "email": "",
   "college": "SRM Institute of Science and Technology Ramapuram Campus",
-  "phone": "",
+  "phone": "9367423297",
+}, {
+  "name": "Mohd Salim Khan",
+  "email": "",
+  "college": "Muffakham Jah College of Engineering and Technology",
+  "phone": "9391669248",
+}, {
+  "name": "Resmi V.",
+  "email": "vreshmiphd@gmail.com",
+  "college": "Mar Ivanios College",
+  "phone": "9894815748",
+}, {
+  "name": "L. Anitha",
+  "email": "anithal@saveetha.ac.in ",
+  "college": "Saveetha Engineering College",
+  "phone": "9841337619",
+}, {
+  "name": "M. Reena Devi",
+  "email": "reenadevi1980@gmail.com",
+  "college": "Sri Sarada Niketan College",
+  "phone": "9894597727",
 }];
