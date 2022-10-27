@@ -2762,4 +2762,9 @@ export default [{
   "email": "pandi.knp@gmail.com",
   "college": "Rathinam College of Arts and Science",
   "phone": "9865399283",
+}, {
+  "name": "T. Sivaranjani",
+  "email": "sivajayakumar23@gmail.com",
+  "college": "Bharath Niketan Engineering College, Aundipatty",
+  "phone": "9080229884",
 }];
