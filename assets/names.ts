@@ -2134,7 +2134,7 @@ export default [{
 }, {
   "name": "Prabhu K",
   "email": "jananikuppan94873@gmail.com",
-  "college": "EASWARI ENGINEERING COLLEGE",
+  "college": "Easwari Engineering College",
   "phone": "6379959351",
 }, {
   "name": "Indhumathi T",
@@ -2154,7 +2154,7 @@ export default [{
 }, {
   "name": "G Anbu Selvi",
   "email": "ag4026@srmist.edu.in",
-  "college": "SRM",
+  "college": "SRM IST, Kattankulathur",
   "phone": "9789985395",
 }, {
   "name": "R. Rejith",
@@ -2767,4 +2767,34 @@ export default [{
   "email": "sivajayakumar23@gmail.com",
   "college": "Bharath Niketan Engineering College, Aundipatty",
   "phone": "9080229884",
+}, {
+  "name": "C. Hema",
+  "email": "sivajayakumar23@gmail.com",
+  "college": "B. S. Abdur Rahman Crescent Institute of Science & Technology",
+  "phone": "7397463890",
+}, {
+  "name": "Karthik S.",
+  "email": "karthiks1@srmist.edu.in",
+  "college": "SRM IST, Vadapalani",
+  "phone": "9488043909",
+}, {
+  "name": "Rathinakumar P.",
+  "email": "rathinap@srmist.edu.in",
+  "college": "SRM IST, Vadapalani",
+  "phone": "9486243234",
+}, {
+  "name": "S. Athistalakshmi",
+  "email": "lakshmi.ucea@gmail.com",
+  "college": "University College of Engineering, Ariyalur",
+  "phone": "9688948151",
+}, {
+  "name": "M. Beula Kutti",
+  "email": "beularr@gmail.com",
+  "college": "KCG College of Technology",
+  "phone": "7358200646",
+}, {
+  "name": "S. Sethu",
+  "email": "sethu.se@velsuniv.ac.in",
+  "college": "Vels University VISTAS",
+  "phone": "9940045701",
 }];
