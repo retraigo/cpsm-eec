@@ -2797,4 +2797,14 @@ export default [{
   "email": "sethu.se@velsuniv.ac.in",
   "college": "Vels University VISTAS",
   "phone": "9940045701",
+}, {
+  "name": "G. N. R. Prasad",
+  "email": "gnrp@cbit.ac.in",
+  "college": "Chaitanya Bharathi Institute of Technology",
+  "phone": "9885191683",
+}, {
+  "name": "T. A. Albinaa",
+  "email": "albinaa@psgrkcw.ac.in",
+  "college": "PSGR Krishnammal College For Women",
+  "phone": "",
 }];
