@@ -2807,4 +2807,9 @@ export default [{
   "email": "albinaa@psgrkcw.ac.in",
   "college": "PSGR Krishnammal College For Women",
   "phone": "",
+}, {
+  "name": "Reshma P. Vengaloor",
+  "email": "reshmav@srmist.edu.in",
+  "college": "SRM Institute of Science & Technology, Ramapuram",
+  "phone": "9497320533",
 }];
