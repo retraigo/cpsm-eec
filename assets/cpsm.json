@@ -1,2002 +1,2007 @@
-export default [
+[
+  {
+    "name": "Student Name",
+    "email": "Email-Id",
+    "college": "Mobile Number",
+    "phone": "Name of the School/Polytechnic/College"
+  },
   {
     "name": "Sudipta Sundar",
     "email": "sudiptasundar27@gmail.com",
-    "phone": "9176075549",
-    "college": "SRM Easwari Engineering College",
+    "college": "9176075549",
+    "phone": "SRM Easwari Engineering College"
   },
   {
     "name": "Lokesh Varathan M",
     "email": "2021cs0559@svce.ac.in",
-    "phone": "8300271821",
-    "college": "Sri Venkateswara College of Engineering",
+    "college": "8300271821",
+    "phone": "Sri Venkateswara College of Engineering"
   },
   {
     "name": "Bharath",
     "email": "Bharathgay@gmail.com",
-    "phone": "786577291",
-    "college": "Grt",
+    "college": "786577291",
+    "phone": "Grt"
   },
   {
     "name": "Arshath Ahamed A",
     "email": "arshathahamed500@gmail.com",
-    "phone": "7200156297",
-    "college": "Easwari Engineering college",
+    "college": "7200156297",
+    "phone": "Easwari Engineering college"
   },
   {
     "name": "Ezhilan Gv",
     "email": "gvezhilangvezhilan41444@gmail.com",
-    "phone": "9994747533",
-    "college": "Easwari engineering college",
+    "college": "9994747533",
+    "phone": "Easwari engineering college"
   },
   {
     "name": "Sachin",
     "email": "sachintanuj2015@gmail.com",
-    "phone": "7358184042",
-    "college": "Easwari Engineering college",
+    "college": "7358184042",
+    "phone": "Easwari Engineering college"
   },
   {
     "name": "S.Rathish",
     "email": "rathishs121@gmail.com",
-    "phone": "7871450699",
-    "college": "Easwari Engineering College",
+    "college": "7871450699",
+    "phone": "Easwari Engineering College"
   },
   {
     "name": "S.Chelsia",
     "email": "jeniliagracelyn@gmail.com",
-    "phone": "6381290278",
-    "college": "Rose Mary matric HR.SEC School",
+    "college": "6381290278",
+    "phone": "Rose Mary matric HR.SEC School"
   },
   {
     "name": "Jagan Adithya",
     "email": "naniadithya5859@gmail.com",
-    "phone": "6301905859",
-    "college": "Audisankara",
+    "college": "6301905859",
+    "phone": "Audisankara"
   },
   {
     "name": "H Deva Anand",
     "email": "hariharirangan@gmail.com",
-    "phone": "8610293565",
-    "college": "SRM easwari engineering college",
+    "college": "8610293565",
+    "phone": "SRM easwari engineering college"
   },
   {
     "name": "Mohamed Irfan",
     "email": "mohamedirfanvr78@gmail.com",
-    "phone": "8015786769",
-    "college": "Easweri engineering college",
+    "college": "8015786769",
+    "phone": "Easweri engineering college"
   },
   {
     "name": "Master Bavesh Anand",
     "email": "rohiniaravindan17@gmail.com",
-    "phone": "8939074000",
-    "college": "SBOA School & Junior College, Annanagar",
+    "college": "8939074000",
+    "phone": "SBOA School & Junior College, Annanagar"
   },
   {
     "name": "S. Nethraasri",
     "email": "snathank@yahoo.com",
-    "phone": "9488179759",
-    "college": "Aathmaalayaa school",
+    "college": "9488179759",
+    "phone": "Aathmaalayaa school"
   },
   {
     "name": "Karthick S",
     "email": "akkarthik377@gmail.com",
-    "phone": "8248295441",
-    "college": "Apollo polytechnic college",
+    "college": "8248295441",
+    "phone": "Apollo polytechnic college"
   },
   {
     "name": "N. Ram Kumar",
     "email": "ramkumarramkumar70795@gmail.com",
-    "phone": "9789038477",
-    "college": "MCC HR secondary school",
+    "college": "9789038477",
+    "phone": "MCC HR secondary school"
   },
   {
     "name": "Sree Raja Krishna S",
     "email": "sreerajakrishna2002@gmail.com",
-    "phone": "7871354052",
-    "college": "Chennai institute of technology",
+    "college": "7871354052",
+    "phone": "Chennai institute of technology"
   },
   {
     "name": "K.Shobana",
     "email": "kpmegala31@gmail.com",
-    "phone": "7806995806",
-    "college": "Vishwaksena global school",
+    "college": "7806995806",
+    "phone": "Vishwaksena global school"
   },
   {
     "name": "Peniel Lawrence",
     "email": "peniellawrence@gmail.com",
-    "phone": "8668186433",
-    "college": "Panimalar engineering college Chennai City campus",
+    "college": "8668186433",
+    "phone": "Panimalar engineering college Chennai City campus"
   },
   {
     "name": "Gowtham K",
     "email": "gk2035986@gmail.com",
-    "phone": "9342347207",
-    "college": "Dwarka doss goverdhan doss vaishnav college",
+    "college": "9342347207",
+    "phone": "Dwarka doss goverdhan doss vaishnav college"
   },
   {
     "name": "Freddy Stephen",
     "email": "freddystephen3695@gmail",
-    "phone": "9444451141",
-    "college": "Madras Christian College hr.sec.school",
+    "college": "9444451141",
+    "phone": "Madras Christian College hr.sec.school"
   },
   {
     "name": "Sowmya S",
     "email": "sowmi21sri@gmail.com",
-    "phone": "9080815401",
-    "college": "Dhanalakshmi Srinivasan College of Arts and Science for Women",
+    "college": "9080815401",
+    "phone": "Dhanalakshmi Srinivasan College of Arts and Science for Women"
   },
   {
     "name": "Anton Bert B S",
     "email": "sobinix@sxcce.edu.in",
-    "phone": "9994135135",
-    "college": "St. Alphonsa Matriculation Higher Secondary School",
+    "college": "9994135135",
+    "phone": "St. Alphonsa Matriculation Higher Secondary School"
   },
   {
     "name": "Jeyasimma R",
     "email": "jeyasimmar@gmail.com",
-    "phone": "7010164126",
-    "college": "Easwari engineering college - Chennai",
+    "college": "7010164126",
+    "phone": "Easwari engineering college - Chennai"
   },
   {
     "name": "Naresh S",
     "email": "ainaresh1511@gmail.com",
-    "phone": "9790833872",
-    "college": "Shri krishnaswamyvmat her sec school",
+    "college": "9790833872",
+    "phone": "Shri krishnaswamyvmat her sec school"
   },
   {
     "name": "Tanusree. D",
     "email": "tanushreeduraibabu61@gmail.com",
-    "phone": "9840098438",
-    "college": "Easwari engineering college",
+    "college": "9840098438",
+    "phone": "Easwari engineering college"
   },
   {
     "name": "Manu Savithri V",
     "email": "manusavithri710@gmail.com",
-    "phone": "9003070549",
-    "college": "Easwari Engineering College",
+    "college": "9003070549",
+    "phone": "Easwari Engineering College"
   },
   {
     "name": "Janani D",
     "email": "jananidileepan@gmail.com",
-    "phone": "9003105630",
-    "college": "IIT madras",
+    "college": "9003105630",
+    "phone": "IIT madras"
   },
   {
     "name": "Shardul Tavse",
     "email": "Sampadastavse@gmail.com",
-    "phone": "9890654648",
-    "college": "Suryadatta National School",
+    "college": "9890654648",
+    "phone": "Suryadatta National School"
   },
   {
     "name": "Isaac Joe",
     "email": "risaacjoe@gmail.com",
-    "phone": "8939707087",
-    "college": "Madras Christian college hr.sec.school",
+    "college": "8939707087",
+    "phone": "Madras Christian college hr.sec.school"
   },
   {
     "name": "Sathish. D",
     "email": "dhandapanidhandapani032@gmail.com",
-    "phone": "9940217757",
-    "college": "Madras chrisitian collage .hr.sec .School",
+    "college": "9940217757",
+    "phone": "Madras chrisitian collage .hr.sec .School"
   },
   {
     "name": "K Harikrishnan",
     "email": "Moorthik517@gmail.com",
-    "phone": "8778769540",
-    "college": "Madras Christian College Hr Secondory school",
+    "college": "8778769540",
+    "phone": "Madras Christian College Hr Secondory school"
   },
   {
     "name": "J Rejish Daniel",
     "email": "johnson22081979@gmail.com",
-    "phone": "8190958205",
-    "college": "MCC School",
+    "college": "8190958205",
+    "phone": "MCC School"
   },
   {
     "name": "Pradeep S",
     "email": "0610pradeeps@gmail.com",
-    "phone": "7358624192",
-    "college": "M.C.C.Hr.Sec.School",
+    "college": "7358624192",
+    "phone": "M.C.C.Hr.Sec.School"
   },
   {
     "name": "Deepak Vasan S J",
     "email": "janakiseenu4@gmail.com",
-    "phone": "9094802056",
-    "college": "MCC hr. Sec. School",
+    "college": "9094802056",
+    "phone": "MCC hr. Sec. School"
   },
   {
     "name": "T.Abhilash",
     "email": "kavithajoushua056@gmail.com",
-    "phone": "7200068967",
-    "college": "Mcc hr sec school",
+    "college": "7200068967",
+    "phone": "Mcc hr sec school"
   },
   {
     "name": "V .Ben Johnson",
     "email": "jbanu279@gmail.com",
-    "phone": "9840735391",
-    "college": "Mcc",
+    "college": "9840735391",
+    "phone": "Mcc"
   },
   {
     "name": "Mathew John",
     "email": "peterjohn3004@gmail.com",
-    "phone": "9003057608",
-    "college": "MCC . Higher secondary school",
+    "college": "9003057608",
+    "phone": "MCC . Higher secondary school"
   },
   {
     "name": "Alfin. V. V",
     "email": "alwfin@gmail.com",
-    "phone": "9940334071",
-    "college": "MCC HR. SEC. SCHOOL",
+    "college": "9940334071",
+    "phone": "MCC HR. SEC. SCHOOL"
   },
   {
     "name": "S.Suriya",
     "email": "sathyaseelans2020@gmail.com",
-    "phone": "9566006016",
-    "college": "MCC HR SEC SCHOOL",
+    "college": "9566006016",
+    "phone": "MCC HR SEC SCHOOL"
   },
   {
     "name": "K.Harish",
     "email": "kaverypoorani@gmail.com",
-    "phone": "8610402638",
-    "college": "MCC hr sec school",
+    "college": "8610402638",
+    "phone": "MCC hr sec school"
   },
   {
     "name": "Athithiya Rajan S",
     "email": "athithiya2006@gmail.com",
-    "phone": "9962546329",
-    "college": "Saraswathi vidyalaya sr sec school",
+    "college": "9962546329",
+    "phone": "Saraswathi vidyalaya sr sec school"
   },
   {
     "name": "J.Hari Prasad",
     "email": "hariprasad.j0204@gmail.com",
-    "phone": "8148867713",
-    "college": "Madras chiristian college hr .Sec. school",
+    "college": "8148867713",
+    "phone": "Madras chiristian college hr .Sec. school"
   },
   {
     "name": "Thiruselvan",
     "email": "Sowndaravalli perumal@gmail.com",
-    "phone": "9677157355",
-    "college": "Mcc school",
+    "college": "9677157355",
+    "phone": "Mcc school"
   },
   {
     "name": "Mahaa Manish. K",
     "email": "mahaamanish034@gmail.com",
-    "phone": "9092750736",
-    "college": "MCC HR SEC SCHOOL",
+    "college": "9092750736",
+    "phone": "MCC HR SEC SCHOOL"
   },
   {
     "name": "V. Shareen Sham",
     "email": "vshareensham@gmail.com",
-    "phone": "994,413,069,119,940,000,000",
-    "college": "Madras Christian College higher secondary shool",
+    "college": "994,413,069,119,940,000,000",
+    "phone": "Madras Christian College higher secondary shool"
   },
   {
     "name": "J.G.Rayirth",
     "email": "rayirthgokul22@gmail.com",
-    "phone": "9884586690",
-    "college": "MCC Higher Secondary School",
+    "college": "9884586690",
+    "phone": "MCC Higher Secondary School"
   },
   {
     "name": "E.Vinoth Kumar",
     "email": "freefirepassanga41@gmail.com",
-    "phone": "8072229728",
-    "college": "Madras Christian College hr sec school",
+    "college": "8072229728",
+    "phone": "Madras Christian College hr sec school"
   },
   {
     "name": "Taran",
     "email": "taranakash@svstudent.in",
-    "phone": "7010052717",
-    "college": "Saraswati Vidyalaya",
+    "college": "7010052717",
+    "phone": "Saraswati Vidyalaya"
   },
   {
     "name": "Kamaleshraj P.R.",
     "email": "kamaleshrajpr2008@gmail.com",
-    "phone": "9940502014",
-    "college": "Madras Christian College Higher Secondary School",
+    "college": "9940502014",
+    "phone": "Madras Christian College Higher Secondary School"
   },
   {
     "name": "S.Suriya Prakash",
     "email": "Sakthiraji2012@gmail",
-    "phone": "98754404568",
-    "college": "Madras christain college hr.sec school",
+    "college": "98754404568",
+    "phone": "Madras christain college hr.sec school"
   },
   {
     "name": "S. M. Yashwanth Yugaoly",
     "email": "murugesoly@gmail.com",
-    "phone": "8610504661",
-    "college": "M. C. C. HR. SEC. SCHOOL",
+    "college": "8610504661",
+    "phone": "M. C. C. HR. SEC. SCHOOL"
   },
   {
     "name": "R Vignesh",
     "email": "bhavanivicky09@gmail.com",
-    "phone": "9941115850",
-    "college": "Madras Christian College higher secondary school",
+    "college": "9941115850",
+    "phone": "Madras Christian College higher secondary school"
   },
   {
     "name": "Sarvesh.S",
     "email": "shankerjilea@gmail.com",
-    "phone": "9841056460",
-    "college": "MCC.HR.SEC.SCHOOL",
+    "college": "9841056460",
+    "phone": "MCC.HR.SEC.SCHOOL"
   },
   {
     "name": "Janhvi Kadam",
     "email": "rahuldhaigude1@gmail.com",
-    "phone": "9403346111",
-    "college": "MES English Medium School",
+    "college": "9403346111",
+    "phone": "MES English Medium School"
   },
   {
     "name": "J. Gopinath",
     "email": "lakshmijana4567@gmail.com",
-    "phone": "9176088126",
-    "college": "Madras Christian College hr. sec. School",
+    "college": "9176088126",
+    "phone": "Madras Christian College hr. sec. School"
   },
   {
     "name": "Abishek",
     "email": "pnirosha960@gmail.com",
-    "phone": "8328626677",
-    "college": "M.C.C.HR.Sec School",
+    "college": "8328626677",
+    "phone": "M.C.C.HR.Sec School"
   },
   {
     "name": "Kishore. S",
     "email": "kk9552075@gmail.com",
-    "phone": "94459 45938",
-    "college": "MCC HR SEC SCHOOL",
+    "college": "94459 45938",
+    "phone": "MCC HR SEC SCHOOL"
   },
   {
     "name": "Sunil",
     "email": "Saravananaronrs@gmail.com",
-    "phone": "9710531150",
-    "college": "Madras Christian College HR.Sec.school",
+    "college": "9710531150",
+    "phone": "Madras Christian College HR.Sec.school"
   },
   {
     "name": "Ajay.R",
     "email": "rajkumaravina@gmail.com",
-    "phone": "9884407408",
-    "college": "Madras Christian college Hr sec school",
+    "college": "9884407408",
+    "phone": "Madras Christian college Hr sec school"
   },
   {
     "name": "Gokul",
     "email": "gokulias9@gmail.com",
-    "phone": "9345541273",
-    "college": "SRI RAMAKRISHNA MATRICULATION SCHOOL",
+    "college": "9345541273",
+    "phone": "SRI RAMAKRISHNA MATRICULATION SCHOOL"
   },
   {
     "name": "V. Jeevanandham",
     "email": "Jeevaharsh143@gamil.com",
-    "phone": "8838332670",
-    "college": "Mcc.HR.Sec.School",
+    "college": "8838332670",
+    "phone": "Mcc.HR.Sec.School"
   },
   {
     "name": "Mohammed Asif",
     "email": "shamun1983ali@gmail.com",
-    "phone": "9941344991",
-    "college": "Sri Ramakrishna matriculation higher secondary school",
+    "college": "9941344991",
+    "phone": "Sri Ramakrishna matriculation higher secondary school"
   },
   {
     "name": "Sunil",
     "email": "Saravananaronrs@gmail.com",
-    "phone": "9710531150",
-    "college": "MADRAS CHIRISTIAN COLLEGE HR. SEC. SCHOOL",
+    "college": "9710531150",
+    "phone": "MADRAS CHIRISTIAN COLLEGE HR. SEC. SCHOOL"
   },
   {
     "name": "M.Pradeep",
     "email": "msasikalakrishnan@gmail.com",
-    "phone": "9840702874",
-    "college": "MCC",
+    "college": "9840702874",
+    "phone": "MCC"
   },
   {
     "name": "N.Santhiya",
     "email": "santhiyasandy200510@gmail.com",
-    "phone": "9047947078",
-    "college": "AVC polytechnic college",
+    "college": "9047947078",
+    "phone": "AVC polytechnic college"
   },
   {
     "name": "Yash Bapu Borse",
     "email": "yashborse432005@gmail.com",
-    "phone": "9403919940",
-    "college": "Shri HHJB Polytechnic Chandwad",
+    "college": "9403919940",
+    "phone": "Shri HHJB Polytechnic Chandwad"
   },
   {
     "name": "Neha Prashant Pagariya",
     "email": "nehapagariya2003@gmail.com",
-    "phone": "7719923005",
-    "college": "Shri Hiralal Hastimal Jain brother Polytechnic college Chandwad",
+    "college": "7719923005",
+    "phone": "Shri Hiralal Hastimal Jain brother Polytechnic college Chandwad"
   },
   {
     "name": "Divya Vitthal Pawar",
     "email": "pawardivyavitthal@gmail.com",
-    "phone": "9284739231",
-    "college": "Shivaji University Kolhapur",
+    "college": "9284739231",
+    "phone": "Shivaji University Kolhapur"
   },
   {
     "name": "Anshuman Jha",
     "email": "anshuman.jha2711@gmail.com",
-    "phone": "9205202784",
-    "college": "VIT CHENNAI",
+    "college": "9205202784",
+    "phone": "VIT CHENNAI"
   },
   {
     "name": "Omkar Balwant Jadhav",
     "email": "omkarjadhav0100@gmail.com",
-    "phone": "9527946189",
-    "college": "Shivaji University Kolhapur",
+    "college": "9527946189",
+    "phone": "Shivaji University Kolhapur"
   },
   {
     "name": "G.Naresh",
     "email": "nareshganeshkalpana@gmail.com",
-    "phone": "9840060286",
-    "college": "SBOA School and junior college",
+    "college": "9840060286",
+    "phone": "SBOA School and junior college"
   },
   {
     "name": "Bhavini Singh",
     "email": "bhavini.singh2021@vitstudent.ac.in",
-    "phone": "7017402505",
-    "college": "Vellore Institute of Technology, Chennai",
+    "college": "7017402505",
+    "phone": "Vellore Institute of Technology, Chennai"
   },
   {
     "name": "S Rubesh Kumar",
     "email": "ctss27.rubeshkumar.s@gmail.com",
-    "phone": "8939762814",
-    "college": "P.t.lee chengalvaraya naicker polytechnic college",
+    "college": "8939762814",
+    "phone": "P.t.lee chengalvaraya naicker polytechnic college"
   },
   {
     "name": "Arunraj C",
     "email": "srmeeceie.arunraj@gmail.com",
-    "phone": "919087087757",
-    "college": "Easwari Engineering College",
+    "college": "919087087757",
+    "phone": "Easwari Engineering College"
   },
   {
     "name": "Karthikeyan.K",
     "email": "Tandonkarthi@gmail.com",
-    "phone": "6385128863",
-    "college": "P.t.Lee chengalvaraya Naicker polytechnic college",
+    "college": "6385128863",
+    "phone": "P.t.Lee chengalvaraya Naicker polytechnic college"
   },
   {
     "name": "Revathi",
     "email": "revathirkumar012@gmail.com",
-    "phone": "6374241109",
-    "college": "Thai Moogambigai Polytechnic college",
+    "college": "6374241109",
+    "phone": "Thai Moogambigai Polytechnic college"
   },
   {
     "name": "P.Athithya",
     "email": "Perumalazhagiri823@gmail.com",
-    "phone": "9791700380",
-    "college": "Saraswathi matric hr sec school",
+    "college": "9791700380",
+    "phone": "Saraswathi matric hr sec school"
   },
   {
     "name": "E. Esakki Kishore",
     "email": "esakkikyogesh@gmail.com",
-    "phone": "7092883448",
-    "college": "D.V.D matriculation school",
+    "college": "7092883448",
+    "phone": "D.V.D matriculation school"
   },
   {
     "name": "Vadge Gayatri Sahebrao",
     "email": "gayatrivadge@gmail.com",
-    "phone": "919370850785",
-    "college": "SNJB POLYTECHNIC COLLEGE,CHANDWAD",
+    "college": "919370850785",
+    "phone": "SNJB POLYTECHNIC COLLEGE,CHANDWAD"
   },
   {
     "name": "Vrushali Prakash Shinde",
     "email": "vrush.shinde27@gmail.com",
-    "phone": "8080370503",
-    "college": "SHHJB Polytechnic Chandwad",
+    "college": "8080370503",
+    "phone": "SHHJB Polytechnic Chandwad"
   },
   {
     "name": "Darsh Parmar",
     "email": "darshparmar09@gmail.com",
-    "phone": "9940142909",
-    "college": "Lalaji memorial omega international school",
+    "college": "9940142909",
+    "phone": "Lalaji memorial omega international school"
   },
   {
     "name": "Shewale Akanksha Prashant",
     "email": "akankshashewale99@gmail.com",
-    "phone": "7499514313",
-    "college": "H.H.J.B.COP",
+    "college": "7499514313",
+    "phone": "H.H.J.B.COP"
   },
   {
     "name": "Jadhav Sakshi Baban",
     "email": "sakshuj7@gmail.com",
-    "phone": "9403673885",
-    "college": "Shri HHJB Polytechnic Chandwad",
+    "college": "9403673885",
+    "phone": "Shri HHJB Polytechnic Chandwad"
   },
   {
     "name": "Lisha S",
     "email": "lishashanmugaraj@gmail.com",
-    "phone": "8667504650",
-    "college": "HOLY FAMILY CONVENT MATRICULATION HIGHER SECONDARY SCHOOL",
+    "college": "8667504650",
+    "phone": "HOLY FAMILY CONVENT MATRICULATION HIGHER SECONDARY SCHOOL"
   },
   {
     "name": "Chadhurya Ns",
     "email": "nandalove@gmail.com",
-    "phone": "9841571975",
-    "college": "SBOA school and junior college",
+    "college": "9841571975",
+    "phone": "SBOA school and junior college"
   },
   {
     "name": "Sheetal Nandkishor Gosavi",
     "email": "gosavi.sheetal.n@gmail.com",
-    "phone": "9423973247",
-    "college": "SNJB's SHHJB POLYTECHNIC CHANDWAD",
+    "college": "9423973247",
+    "phone": "SNJB's SHHJB POLYTECHNIC CHANDWAD"
   },
   {
     "name": "Rajiv R Bhandari",
     "email": "rajivrbhandari@gmail.com",
-    "phone": "9404214914",
-    "college": "HHJB Polytechnic Chandwad",
+    "college": "9404214914",
+    "phone": "HHJB Polytechnic Chandwad"
   },
   {
     "name": "Rohan Pramod Pawar",
     "email": "pawarrohanpramod@gmail.com",
-    "phone": "7385341677",
-    "college": "SHHJB Polytechnic",
+    "college": "7385341677",
+    "phone": "SHHJB Polytechnic"
   },
   {
     "name": "Srividhya S",
     "email": "sriswa0308@gmail.com",
-    "phone": "7904353315",
-    "college": "Vellore Institute of Technology",
+    "college": "7904353315",
+    "phone": "Vellore Institute of Technology"
   },
   {
     "name": "C.Suryamoorthy",
     "email": "cmsurya2008@gmail.com",
-    "phone": "9962670962",
-    "college": "SBIOA INTERNATIONAL SCHOOL",
+    "college": "9962670962",
+    "phone": "SBIOA INTERNATIONAL SCHOOL"
   },
   {
     "name": "G Yugith",
     "email": "eceyugithg@gmail.com",
-    "phone": "8610340338",
-    "college": "P. T. LEE chengalvaraya naicker Polytechnic college",
+    "college": "8610340338",
+    "phone": "P. T. LEE chengalvaraya naicker Polytechnic college"
   },
   {
     "name": "Maadhav.N",
     "email": "Maadhavkannan2009@gmail.com",
-    "phone": "9944912011",
-    "college": "Santiniketan Public School",
+    "college": "9944912011",
+    "phone": "Santiniketan Public School"
   },
   {
     "name": "Sv",
     "email": "msv3180@gmail.com",
-    "phone": "6379846513",
-    "college": "New prince",
+    "college": "6379846513",
+    "phone": "New prince"
   },
   {
     "name": "Muthu Harish M",
     "email": "muthuharish222@gmail.com",
-    "phone": "7867818138",
-    "college": "St.Patrick's academic matriculation HR. Sec. school",
+    "college": "7867818138",
+    "phone": "St.Patrick's academic matriculation HR. Sec. school"
   },
   {
     "name": "Dijo S Benelen",
     "email": "Ajithajones@gmail.com",
-    "phone": "9449543475",
-    "college": "Maharishi Vidhya mandir avigna celeste",
+    "college": "9449543475",
+    "phone": "Maharishi Vidhya mandir avigna celeste"
   },
   {
     "name": "N.Praveen",
     "email": "praveen.n11062008@gmail.com",
-    "phone": "9962465688",
-    "college": "Madras Christian College HR.SEC.School",
+    "college": "9962465688",
+    "phone": "Madras Christian College HR.SEC.School"
   },
   {
     "name": "Shilavat Damini Dilip",
     "email": "daminishilavat@gmail.com",
-    "phone": "8459900562",
-    "college": "Snjb polytechnic chandwad",
+    "college": "8459900562",
+    "phone": "Snjb polytechnic chandwad"
   },
   {
     "name": "Sarika Sakharam Khot",
     "email": "skhot0913@gamil.com",
-    "phone": "9405136255",
-    "college": "Sant gajanan maharaja rural polytechnic mahagoan",
+    "college": "9405136255",
+    "phone": "Sant gajanan maharaja rural polytechnic mahagoan"
   },
   {
     "name": "Gokulakrishnan I",
     "email": "gokulkrishnan68648@gmail.com",
-    "phone": "9087833458",
-    "college": "Easwari engineering college",
+    "college": "9087833458",
+    "phone": "Easwari engineering college"
   },
   {
     "name": "Mahesh Dilip Shilavat",
     "email": "komalshilavat3799@gmail.com",
-    "phone": "9307372044",
-    "college": "Madhyamik vidyalay hirapur",
+    "college": "9307372044",
+    "phone": "Madhyamik vidyalay hirapur"
   },
   {
     "name": "P Sakthi Sabareesh",
     "email": "sakthixenium@gmail.com",
-    "phone": "9498357768",
-    "college": "Lalaji Memorial Omega International School",
+    "college": "9498357768",
+    "phone": "Lalaji Memorial Omega International School"
   },
   {
     "name": "Amandeep Singh",
     "email": "amandeep.651@gmail.com",
-    "phone": "919915292267",
-    "college": "Gne college",
+    "college": "919915292267",
+    "phone": "Gne college"
   },
   {
     "name": "S.Keerthana",
     "email": "Keerthanasuresh931@gmail.com",
-    "phone": "7397426518",
-    "college": "BENTICK HIGHER SECONDARY SCHOOL",
+    "college": "7397426518",
+    "phone": "BENTICK HIGHER SECONDARY SCHOOL"
   },
   {
     "name": "Shyam",
     "email": "shyamsandhya0507@gmail.com",
-    "phone": "9150258771",
-    "college": "SRM",
+    "college": "9150258771",
+    "phone": "SRM"
   },
   {
     "name": "Akshitha",
     "email": "aksshithaa06@gmail.com",
-    "phone": "6383339765",
-    "college": "Rv university",
+    "college": "6383339765",
+    "phone": "Rv university"
   },
   {
     "name": "Karthick R",
     "email": "rkarsivasundaram2001@gmail.com",
-    "phone": "9566392280",
-    "college": "D. V. S. REDDY HR. SEC. SCHOOL.",
+    "college": "9566392280",
+    "phone": "D. V. S. REDDY HR. SEC. SCHOOL."
   },
   {
     "name": "Alwin P",
     "email": "josephalwin564@gmail.com",
-    "phone": "6374732297",
-    "college": "St Joseph college of engineering",
+    "college": "6374732297",
+    "phone": "St Joseph college of engineering"
   },
   {
     "name": "Asan",
     "email": "asan260605@gmail.com",
-    "phone": "6383163791",
-    "college": "Bharath University",
+    "college": "6383163791",
+    "phone": "Bharath University"
   },
   {
     "name": "Monish Ram",
     "email": "itsmonishr@gmail.com",
-    "phone": "9150066577",
-    "college": "SBOA School and Junior College",
+    "college": "9150066577",
+    "phone": "SBOA School and Junior College"
   },
   {
     "name": "Tanya Sri",
     "email": "Tanyasriganesan@gmail.com",
-    "phone": "9094703162",
-    "college": "Sboa",
+    "college": "9094703162",
+    "phone": "Sboa"
   },
   {
     "name": "Jaidev Ninja",
     "email": "Grubbysteve43@gmail.com",
-    "phone": "9677058045",
-    "college": "Vel tech high tech",
+    "college": "9677058045",
+    "phone": "Vel tech high tech"
   },
   {
     "name": "Shahid",
     "email": "Sashk5@gmail.com",
-    "phone": "9361817749",
-    "college": "Thiyagaraja",
+    "college": "9361817749",
+    "phone": "Thiyagaraja"
   },
   {
     "name": "Varsha Karthikeyan",
     "email": "varshakarthikeyan1@gmail.com",
-    "phone": "9445363628",
-    "college": "SRM",
+    "college": "9445363628",
+    "phone": "SRM"
   },
   {
     "name": "Aamin",
     "email": "aaminullha06@gmail.com",
-    "phone": "9952029628",
-    "college": "Ssn college of engineering",
+    "college": "9952029628",
+    "phone": "Ssn college of engineering"
   },
   {
     "name": "Sasvatha",
     "email": "sasvatha3175@gmail.com",
-    "phone": "9840446727",
-    "college": "SBOA school and junior college",
+    "college": "9840446727",
+    "phone": "SBOA school and junior college"
   },
   {
     "name": "Meghashree",
     "email": "Meghashree1608@gmail.com",
-    "phone": "8056492660",
-    "college": "SRM IST Ramapuram",
+    "college": "8056492660",
+    "phone": "SRM IST Ramapuram"
   },
   {
     "name": "Abeejay M",
     "email": "murthyramulu@gmail.com",
-    "phone": "9952909201",
-    "college": "SBOA SCHOOL AND JUNIOR COLLEGE",
+    "college": "9952909201",
+    "phone": "SBOA SCHOOL AND JUNIOR COLLEGE"
   },
   {
     "name": "Ranjana.G",
     "email": "ranjanarj2004@gmail.com",
-    "phone": "9444926524",
-    "college": "Easwari engineering college",
+    "college": "9444926524",
+    "phone": "Easwari engineering college"
   },
   {
     "name": "K. Sai Kumar",
     "email": "saikumardavid1@gmail.com",
-    "phone": "9963482072",
-    "college": "Audi Sankara",
+    "college": "9963482072",
+    "phone": "Audi Sankara"
   },
   {
     "name": "S Praveen Raj",
     "email": "rajsteve55@gmail.com",
-    "phone": "6374483418",
-    "college": "Chss patel nagar government higher secondary school",
+    "college": "6374483418",
+    "phone": "Chss patel nagar government higher secondary school"
   },
   {
     "name": "Sushil Kumar",
     "email": "sushilmv5678@gmail.com",
-    "phone": "9500174466",
-    "college": "Srm",
+    "college": "9500174466",
+    "phone": "Srm"
   },
   {
     "name": "M.Yuvashakthi",
     "email": "yuvashakthiranganathan@gmail.com",
-    "phone": "7338951489",
-    "college": "Vani vidyalaya",
+    "college": "7338951489",
+    "phone": "Vani vidyalaya"
   },
   {
     "name": "A. Navaneeth",
     "email": "stunavaneeth12464@kvschennairegion.in",
-    "phone": "9442492911",
-    "college": "Kendriya vidyalaya No. 1 oft trichy",
+    "college": "9442492911",
+    "phone": "Kendriya vidyalaya No. 1 oft trichy"
   },
   {
     "name": "R. S. Leoprabhu",
     "email": "leoprabhushanthi@gmail.com",
-    "phone": "8939542525",
-    "college":
-      "Sethu baskara matric. Hr. Sec. School/-/loyola Institute of technology",
+    "college": "8939542525",
+    "phone": "Sethu baskara matric. Hr. Sec. School/-/loyola Institute of technology"
   },
   {
     "name": "Rishab Murali",
     "email": "rishabm858@gmail.com",
-    "phone": "9092664422",
-    "college": "Vel tech",
+    "college": "9092664422",
+    "phone": "Vel tech"
   },
   {
     "name": "P.M.Thalitha",
     "email": "thalithatanusree@gmail.com",
-    "phone": "9360144837",
-    "college": "CSI Jessie mosses",
+    "college": "9360144837",
+    "phone": "CSI Jessie mosses"
   },
   {
     "name": "Poojitha Shree.V",
     "email": "vpoojithashree@gmail.com",
-    "phone": "8667252053",
-    "college": "Chinmaya Vidyalaya",
+    "college": "8667252053",
+    "phone": "Chinmaya Vidyalaya"
   },
   {
     "name": "Tharunica",
     "email": "tharunicak@gmail.com",
-    "phone": "9940573874",
-    "college": "Saveetha Pupil",
+    "college": "9940573874",
+    "phone": "Saveetha Pupil"
   },
   {
     "name": "Tharun Sriram S",
     "email": "tarunsriram2004@gmail.com",
-    "phone": "7339038038",
-    "college": "Sri Sairam polytechnic college",
+    "college": "7339038038",
+    "phone": "Sri Sairam polytechnic college"
   },
   {
     "name": "Nikhil Aravind",
     "email": "nanikhilaravind@gmail.com",
-    "phone": "9940366170",
-    "college": "SRMIST, Ramapuram",
+    "college": "9940366170",
+    "phone": "SRMIST, Ramapuram"
   },
   {
     "name": "Anish",
     "email": "Anishnarayan0007@gmail.com",
-    "phone": "8590037495",
-    "college": "Srm",
+    "college": "8590037495",
+    "phone": "Srm"
   },
   {
     "name": "Abishek Natarajan",
     "email": "abisheknatarajan2023@gmail.com",
-    "phone": "8524947947",
-    "college": "Velammal Vidyalaya",
+    "college": "8524947947",
+    "phone": "Velammal Vidyalaya"
   },
   {
     "name": "Shreya",
     "email": "shreya8rams@gmail.com",
-    "phone": "7305244565",
-    "college": "PSBB",
+    "college": "7305244565",
+    "phone": "PSBB"
   },
   {
     "name": "Srinivasalu",
     "email": "srinivj46@gmail.com",
-    "phone": "9176057921",
-    "college": "Madras Christian College Higher Secondary School",
+    "college": "9176057921",
+    "phone": "Madras Christian College Higher Secondary School"
   },
   {
     "name": "Niranjan.S",
     "email": "niranjanchinnu28@gmail.com",
-    "phone": "8122043312",
-    "college": "MCC.HR.SEC.SCHOOL",
+    "college": "8122043312",
+    "phone": "MCC.HR.SEC.SCHOOL"
   },
   {
     "name": "Karthik Krishna Bl",
     "email": "karthikkrishnabl@gmail.com",
-    "phone": "8838342312",
-    "college": "SRI SAIRAM POLYTECHNIC COLLEGE",
+    "college": "8838342312",
+    "phone": "SRI SAIRAM POLYTECHNIC COLLEGE"
   },
   {
     "name": "Swetha.B",
     "email": "swethababu590@gmail.com",
-    "phone": "7200747960/9345824737",
-    "college": "Bentinck hr sec school",
+    "college": "7200747960/9345824737",
+    "phone": "Bentinck hr sec school"
   },
   {
     "name": "Umayaval B",
     "email": "umayavalb@gmail.com",
-    "phone": "6385444009",
-    "college": "Velammal matric hr.sec.school",
+    "college": "6385444009",
+    "phone": "Velammal matric hr.sec.school"
   },
   {
     "name": "Aruna R",
     "email": "swarnakumariragu@gmail.com",
-    "phone": "7639487733",
-    "college": "Aruna R",
+    "college": "7639487733",
+    "phone": "Aruna R"
   },
   {
     "name": "Devika Ajayan",
     "email": "devikaajayan14@gmail.com",
-    "phone": "9946102907",
-    "college": "Velammal Matic. Hr. Sec. School",
+    "college": "9946102907",
+    "phone": "Velammal Matic. Hr. Sec. School"
   },
   {
     "name": "Jasmine M",
     "email": "msjasmine153@gmail.com",
-    "phone": "9842374928",
-    "college": "Velammal Main Campus",
+    "college": "9842374928",
+    "phone": "Velammal Main Campus"
   },
   {
     "name": "Harinie S",
     "email": "hariniesasikumar24x7@gmail.com",
-    "phone": "9840360335",
-    "college": "Velammal matriculation higher secondary school",
+    "college": "9840360335",
+    "phone": "Velammal matriculation higher secondary school"
   },
   {
     "name": "Sri Harini",
     "email": "-",
-    "phone": "-",
-    "college": "SBOA SCHOOL AND JUNIOR COLLEGE",
+    "college": "-",
+    "phone": "SBOA SCHOOL AND JUNIOR COLLEGE"
   },
   {
     "name": "Sharmila.L",
     "email": "sharmilaloganathan2006@gmail.com",
-    "phone": "7695937689",
-    "college": "Sri Ramakrishna Matriculation Higher Secondary School",
+    "college": "7695937689",
+    "phone": "Sri Ramakrishna Matriculation Higher Secondary School"
   },
   {
     "name": "Sameeha Nisha .S",
     "email": "fathimaseyadhu87@gmail.com",
-    "phone": "6381642567",
-    "college": "Justice basheer Ahmed seyeed college for women",
+    "college": "6381642567",
+    "phone": "Justice basheer Ahmed seyeed college for women"
   },
   {
     "name": "Arseen Aysha . S",
     "email": "sameehanisha43@gmail.com",
-    "phone": "6381642567",
-    "college": "Immaculate heart of Mary matriculation higher secondary school",
+    "college": "6381642567",
+    "phone": "Immaculate heart of Mary matriculation higher secondary school"
   },
   {
     "name": "M.Hariharan",
     "email": "Vasanthiramsh16@gmail.com",
-    "phone": "9443564604",
-    "college": "Vivakananda mr hr sec school",
+    "college": "9443564604",
+    "phone": "Vivakananda mr hr sec school"
   },
   {
     "name": "M.Vasanthi",
     "email": "Vasanthiramesh16@gmail.com",
-    "phone": "99942 19610",
-    "college": "Vivekananda mr hr sec school",
+    "college": "99942 19610",
+    "phone": "Vivekananda mr hr sec school"
   },
   {
     "name": "Janhvi Vinod Tathed",
     "email": "janhvitathed14@gmail.com",
-    "phone": "9423966165",
-    "college": "SNJB Polytechnic, Chandwad",
+    "college": "9423966165",
+    "phone": "SNJB Polytechnic, Chandwad"
   },
   {
     "name": "Sunil. S",
     "email": "Sammoses971@gmail.com",
-    "phone": "9710531150",
-    "college": "M. C. C. Hr. Sec. School",
+    "college": "9710531150",
+    "phone": "M. C. C. Hr. Sec. School"
   },
   {
     "name": "Aravinth",
     "email": "aravinthseelanth13@gmail.com",
-    "phone": "7305865370",
-    "college": "Vel tech",
+    "college": "7305865370",
+    "phone": "Vel tech"
   },
   {
     "name": "Tejaswini",
     "email": "tejaswiniveenadhakshin@gmail.com",
-    "phone": "9789014745",
-    "college": "Velammal",
+    "college": "9789014745",
+    "phone": "Velammal"
   },
   {
     "name": "Zahedha Begum.Z",
     "email": "begumzahedha730@gmail.com",
-    "phone": "9710646624",
-    "college": "Justice basheer Ahmed Sayeed college for women",
+    "college": "9710646624",
+    "phone": "Justice basheer Ahmed Sayeed college for women"
   },
   {
     "name": "Jagadeesan M",
     "email": "jaga08suma@gmail.com",
-    "phone": "8248688405",
-    "college": "St.Peter's College of Engineering and Technology",
+    "college": "8248688405",
+    "phone": "St.Peter's College of Engineering and Technology"
   },
   {
     "name": "K P Badri",
     "email": "k.p.badri0207@gmail.com",
-    "phone": "9908824278",
-    "college": "Saveetha school of engineering",
+    "college": "9908824278",
+    "phone": "Saveetha school of engineering"
   },
   {
     "name": "Arjun S",
     "email": "arjunss057@gmail.com",
-    "phone": "7530051876",
-    "college": "SRM TRP Engineering College",
+    "college": "7530051876",
+    "phone": "SRM TRP Engineering College"
   },
   {
     "name": "R.Lahari Sai",
     "email": "laharisai2003@gmail.com",
-    "phone": "8639864189",
-    "college": "Saveetha school of Engineering",
+    "college": "8639864189",
+    "phone": "Saveetha school of Engineering"
   },
   {
     "name": "Deepa K",
     "email": "prasannavenkatesh159@gmail.com",
-    "phone": "7448324800",
-    "college": "Crescent school",
+    "college": "7448324800",
+    "phone": "Crescent school"
   },
   {
     "name": "V.Mithra",
     "email": "Charumathi3821@gmail.com",
-    "phone": "8438198917",
-    "college": "Good samaritan public school",
+    "college": "8438198917",
+    "phone": "Good samaritan public school"
   },
   {
     "name": "Jai Narayanan",
     "email": "swethajaganathan028@gmail.com",
-    "phone": "7418975403",
-    "college": "Montfort Matriculation Higher secondary school",
+    "college": "7418975403",
+    "phone": "Montfort Matriculation Higher secondary school"
   },
   {
     "name": "Bala Kumara Sreenivasan",
     "email": "e.srinivasan76@gmail.com",
-    "phone": "9940177795",
-    "college": "Eve matriculation hr. Sec. School",
+    "college": "9940177795",
+    "phone": "Eve matriculation hr. Sec. School"
   },
   {
     "name": "Pranav P",
     "email": "Pranavsamyu@gmail.com",
-    "phone": "9094002324",
-    "college": "Chettinad vidyashram",
+    "college": "9094002324",
+    "phone": "Chettinad vidyashram"
   },
   {
     "name": "B.Vishnupriya",
     "email": "vidhyalakshmib1305@gmail.com",
-    "phone": "6379919232",
-    "college": "Modern Senior Secondary school",
+    "college": "6379919232",
+    "phone": "Modern Senior Secondary school"
   },
   {
     "name": "R.Aadarsh",
     "email": "priyarshreya@gmail.com",
-    "phone": "9789892742",
-    "college": "Maharishi Vidya mandir",
+    "college": "9789892742",
+    "phone": "Maharishi Vidya mandir"
   },
   {
     "name": "S.Pragyah",
     "email": "geethapragyah@gmail.com",
-    "phone": "86680 43884",
-    "college": "The Pupil saveetha eco school",
+    "college": "86680 43884",
+    "phone": "The Pupil saveetha eco school"
   },
   {
     "name": "Priyasri",
     "email": "srinithib2505@gmail.com",
-    "phone": "6382208422",
-    "college": "Lalaji memorial Omega international school",
+    "college": "6382208422",
+    "phone": "Lalaji memorial Omega international school"
   },
   {
     "name": "Rohit M",
     "email": "sharran.syv25@gmail.com",
-    "phone": "7200321594",
-    "college": "Kendriya vidhyalaya CRPF",
+    "college": "7200321594",
+    "phone": "Kendriya vidhyalaya CRPF"
   },
   {
     "name": "Jenefa",
     "email": "tanusreeduraibabu@gmail.com",
-    "phone": "9840098438",
-    "college": "Holy Angels hr sec school",
+    "college": "9840098438",
+    "phone": "Holy Angels hr sec school"
   },
   {
     "name": "Harish",
     "email": "harishramesh5204@gmail.com",
-    "phone": "8608620160",
-    "college": "Srm ramapuram",
+    "college": "8608620160",
+    "phone": "Srm ramapuram"
   },
   {
     "name": "Sharuja",
     "email": "sharujasanthan@gmail.com",
-    "phone": "9884766095",
-    "college": "SRM",
+    "college": "9884766095",
+    "phone": "SRM"
   },
   {
     "name": "Iyalbha P",
     "email": "Nil",
-    "phone": "Nil",
-    "college": "SBIOA cbse school Trichy",
+    "college": "Nil",
+    "phone": "SBIOA cbse school Trichy"
   },
   {
     "name": "Shasmitha K",
     "email": "karthigeyababuthiviyesh@gmail.com",
-    "phone": "9962961981",
-    "college": "SBOA MATRICULATION HIGHER SECONDARY SCHOOL",
+    "college": "9962961981",
+    "phone": "SBOA MATRICULATION HIGHER SECONDARY SCHOOL"
   },
   {
     "name": "Vidhush",
     "email": "vdvidhush@gmail.com",
-    "phone": "9500078793",
-    "college": "SRM RAMAPURAM",
+    "college": "9500078793",
+    "phone": "SRM RAMAPURAM"
   },
   {
     "name": "Jasmitha.P",
     "email": "pushmithapandarinath@gmail.com",
-    "phone": "9176448056",
-    "college": "St.Aloysius Anglo Indian higher secondary school",
+    "college": "9176448056",
+    "phone": "St.Aloysius Anglo Indian higher secondary school"
   },
   {
     "name": "Madhu Bharath . M",
     "email": "Nil",
-    "phone": "9442215279",
-    "college": "Avk international school",
+    "college": "9442215279",
+    "phone": "Avk international school"
   },
   {
     "name": "Santhiya.K",
     "email": "sathyakamaraj25@gmail.com",
-    "phone": "9790493422",
-    "college": "Government higher secondary school",
+    "college": "9790493422",
+    "phone": "Government higher secondary school"
   },
   {
     "name": "Vijay.R",
     "email": "vijay.v106.private@gmail.com",
-    "phone": "9498376760",
-    "college": "Little jacky Chengalpattu",
+    "college": "9498376760",
+    "phone": "Little jacky Chengalpattu"
   },
   {
     "name": "Liyan Ahamed Mr",
     "email": "liyanahamed953@gmail.com",
-    "phone": "8925513486",
-    "college": "Dominic Savio Mrt Hr Sec school",
+    "college": "8925513486",
+    "phone": "Dominic Savio Mrt Hr Sec school"
   },
   {
     "name": "Rithesh Kanna G",
     "email": "ritheshkanna06082008@gmail.com",
-    "phone": "9952029654",
-    "college": "KRM PUBLIC SCHOOL",
+    "college": "9952029654",
+    "phone": "KRM PUBLIC SCHOOL"
   },
   {
     "name": "Thiviyesh",
     "email": "Raghu.vva.41@gmail.com",
-    "phone": "9444530826",
-    "college": "Velammal",
+    "college": "9444530826",
+    "phone": "Velammal"
   },
   {
     "name": "Bharath Kumar",
     "email": "bharathbk74011@gmail.com",
-    "phone": "7550196948",
-    "college": "St Peter's institute and higher education",
+    "college": "7550196948",
+    "phone": "St Peter's institute and higher education"
   },
   {
     "name": "Riteesh. P",
     "email": "vishriteeparijan2724@gmail.com",
-    "phone": "7338798053",
-    "college": "Velammal vidyalaya, Alapakkam",
+    "college": "7338798053",
+    "phone": "Velammal vidyalaya, Alapakkam"
   },
   {
     "name": "Raji",
     "email": "rajig7769@gmail.com",
-    "phone": "7338849558",
-    "college": "Alpha matric hr sec school",
+    "college": "7338849558",
+    "phone": "Alpha matric hr sec school"
   },
   {
     "name": "S.Suriya",
     "email": "vishwarocks10@gmail.com",
-    "phone": "6383378196",
-    "college": "Vivekananda matriculation higher secondary school",
+    "college": "6383378196",
+    "phone": "Vivekananda matriculation higher secondary school"
   },
   {
     "name": "S.Vaenkatakrishnan",
     "email": "Venkifire534@gmail.com",
-    "phone": "7358346442",
-    "college": "GRT Mahalakshmi Vidyalaya",
+    "college": "7358346442",
+    "phone": "GRT Mahalakshmi Vidyalaya"
   },
   {
     "name": "Priya",
     "email": "prithikaashok01@gmail.com",
-    "phone": "8438430243",
-    "college": "St. Joseph higher secondary school",
+    "college": "8438430243",
+    "phone": "St. Joseph higher secondary school"
   },
   {
     "name": "Billa",
     "email": "Billa.2005@gmail.com",
-    "phone": "7305777136",
-    "college": "DAV",
+    "college": "7305777136",
+    "phone": "DAV"
   },
   {
     "name": "Sanjai",
     "email": "sanjayvenkat626@gmail.com",
-    "phone": "9360282663",
-    "college": "St.joseph mat hr sec school",
+    "college": "9360282663",
+    "phone": "St.joseph mat hr sec school"
   },
   {
     "name": "Varun Mohan",
     "email": "varunmohan0604@gmail.com",
-    "phone": "9282119364",
-    "college": "Grt mahalakshmi vidyalaya",
+    "college": "9282119364",
+    "phone": "Grt mahalakshmi vidyalaya"
   },
   {
     "name": "Siva Subramanian",
     "email": "msiva97908@gmail.com",
-    "phone": "8974563210",
-    "college": "Central polytechnic collage",
+    "college": "8974563210",
+    "phone": "Central polytechnic collage"
   },
   {
     "name": "Loganathan S",
     "email": "loganathanlogan93@gmail.com",
-    "phone": "9742421014",
-    "college": "Mahendra Engeneering College (AUTONOMOUS)",
+    "college": "9742421014",
+    "phone": "Mahendra Engeneering College (AUTONOMOUS)"
   },
   {
     "name": "Harini Devi K",
     "email": "harinidevikamalakannan@gmail.com",
-    "phone": "9043089339",
-    "college": "Mop vaishnav college",
+    "college": "9043089339",
+    "phone": "Mop vaishnav college"
   },
   {
     "name": "Sharmila",
     "email": "sharmilamahaganesh@gmail.com",
-    "phone": "7339650813",
-    "college": "Venus",
+    "college": "7339650813",
+    "phone": "Venus"
   },
   {
     "name": "Vinothini",
     "email": "mailtovinoshika99@gmail.com",
-    "phone": "9884879446",
-    "college": "Dr. Dharmambal govt. Women's polytechnic college",
+    "college": "9884879446",
+    "phone": "Dr. Dharmambal govt. Women's polytechnic college"
   },
   {
     "name": "Vino",
     "email": "cubecbctcentre@gmail.com",
-    "phone": "9043923439",
-    "college": "Chennai girls hr. Sec school. Saidapet",
+    "college": "9043923439",
+    "phone": "Chennai girls hr. Sec school. Saidapet"
   },
   {
     "name": "Balakumar",
     "email": "balakumar105062004@gmail.com",
-    "phone": "9962200229",
-    "college": "Jawahar vidhiyalaya",
+    "college": "9962200229",
+    "phone": "Jawahar vidhiyalaya"
   },
   {
     "name": "N.Kavinraj",
     "email": "rajkavin7305@gmail.com",
-    "phone": "7305903764",
-    "college": "Chennai public school",
+    "college": "7305903764",
+    "phone": "Chennai public school"
   },
   {
     "name": "S R Kavin",
     "email": "ramyasivaraman2007@gmail.com",
-    "phone": "9841919869",
-    "college": "SBIOA INTERNATIONAL SCHOOL",
+    "college": "9841919869",
+    "phone": "SBIOA INTERNATIONAL SCHOOL"
   },
   {
     "name": "Badhrinathan V",
     "email": "Badhrivaradharajan2005@gmail.com",
-    "phone": "6374635611",
-    "college": "Raj matriculation hr.sec.school",
+    "college": "6374635611",
+    "phone": "Raj matriculation hr.sec.school"
   },
   {
     "name": "Vignesh",
     "email": "ayyalusamy1975@gmail.com",
-    "phone": "9444464009",
-    "college": "Velammal vidyalaya",
+    "college": "9444464009",
+    "phone": "Velammal vidyalaya"
   },
   {
     "name": "R.K Pooja",
     "email": "rk.sundu21@gmail.com",
-    "phone": "9500133812",
-    "college": "Easwari Engineering college",
+    "college": "9500133812",
+    "phone": "Easwari Engineering college"
   },
   {
     "name": "J.Lithish Kumar",
     "email": "jkeerti65@gmail.com",
-    "phone": "9150521729",
-    "college": "Chss,puliyur",
+    "college": "9150521729",
+    "phone": "Chss,puliyur"
   },
   {
     "name": "Mohnish",
     "email": "mohnishkj@gmail.com",
-    "phone": "9940620947",
-    "college": "Saraswathi Vidyalaya",
+    "college": "9940620947",
+    "phone": "Saraswathi Vidyalaya"
   },
   {
     "name": "Kavitha.A",
     "email": "kavitha.arumugamv@gmail.com",
-    "phone": "8637650188",
-    "college": "Sri Arabhindho matriculation higher secondary school",
+    "college": "8637650188",
+    "phone": "Sri Arabhindho matriculation higher secondary school"
   },
   {
     "name": "Kaviya Rv",
     "email": "kaviyakyo@gmail.com",
-    "phone": "8778575834",
-    "college": "Nazreth matriculation school",
+    "college": "8778575834",
+    "phone": "Nazreth matriculation school"
   },
   {
     "name": "Sidarth",
     "email": "Ruchikaaraje1117@gmail.com",
-    "phone": "93455 02179",
-    "college": "Dav",
+    "college": "93455 02179",
+    "phone": "Dav"
   },
   {
     "name": "Sam Jefferson",
     "email": "samjefferson2005@gmail.com",
-    "phone": "8939771980",
-    "college": "Mcc",
+    "college": "8939771980",
+    "phone": "Mcc"
   },
   {
     "name": "Vinoth",
     "email": "vinodhiniraghu0410@gmail.com",
-    "phone": "7200439225",
-    "college": "Rajalakshmi Vidyashram Matriculation Higher Secondary School",
+    "college": "7200439225",
+    "phone": "Rajalakshmi Vidyashram Matriculation Higher Secondary School"
   },
   {
     "name": "Sheshanathan S",
     "email": "sheshumaya@gmail.com",
-    "phone": "9994367106",
-    "college": "St.Joseph's Matric.Hr.Sec School",
+    "college": "9994367106",
+    "phone": "St.Joseph's Matric.Hr.Sec School"
   },
   {
     "name": "B.Sai Aarthi",
     "email": "srirajarajeshwaranb@gmail.com",
-    "phone": "9698033963",
-    "college": "Casa di mir hr sec school",
+    "college": "9698033963",
+    "phone": "Casa di mir hr sec school"
   },
   {
     "name": "Maariyama K",
     "email": "prashmeg@gmail.com",
-    "phone": "9673459525",
-    "college": "Velammal Matriculation Higher secondary school",
+    "college": "9673459525",
+    "phone": "Velammal Matriculation Higher secondary school"
   },
   {
     "name": "Suriyaa T M",
     "email": "suriya@gmail.com",
-    "phone": "9739847394",
-    "college": "Vani Vidyalaya",
+    "college": "9739847394",
+    "phone": "Vani Vidyalaya"
   },
   {
     "name": "B Kaaviya",
     "email": "bkaaviya24@gmail.com",
-    "phone": "6374349801",
-    "college": "Easwari engineering college",
+    "college": "6374349801",
+    "phone": "Easwari engineering college"
   },
   {
     "name": "Avira",
     "email": "Deeptha1726@gmail.com",
-    "phone": "9884990045",
-    "college": "Chennai public",
+    "college": "9884990045",
+    "phone": "Chennai public"
   },
   {
     "name": "Yugendar Varma",
     "email": "saranyababu080704@gmail.com",
-    "phone": "8610987305",
-    "college": "Veltech",
+    "college": "8610987305",
+    "phone": "Veltech"
   },
   {
     "name": "Rakhesh Krishna.P",
     "email": "rakheshkrishnap@gmail.com",
-    "phone": "9080647652",
-    "college": "VELANKANNI MATRICULATION HIGHER SECONDARY SCHOOL",
+    "college": "9080647652",
+    "phone": "VELANKANNI MATRICULATION HIGHER SECONDARY SCHOOL"
   },
   {
     "name": "Snehan",
     "email": "pnmukunthan@gmail.com",
-    "phone": "6383202447",
-    "college": "Velammal",
+    "college": "6383202447",
+    "phone": "Velammal"
   },
   {
     "name": "Mariamma S",
     "email": "/",
-    "phone": "7305666539",
-    "college": "PSBB",
+    "college": "7305666539",
+    "phone": "PSBB"
   },
   {
     "name": "Vishnu Mp",
     "email": "vishnump2004@gmail.com",
-    "phone": "8072564708",
-    "college": "Velammal Bodhi Campus",
+    "college": "8072564708",
+    "phone": "Velammal Bodhi Campus"
   },
   {
     "name": "Varsha Shree",
     "email": "harshavarthini2144@gmail.com",
-    "phone": "-",
-    "college": "SRI RAMAKRISHNA MATRIC HR.SEC.SCHOOL",
+    "college": "-",
+    "phone": "SRI RAMAKRISHNA MATRIC HR.SEC.SCHOOL"
   },
   {
     "name": "Harshita.V",
     "email": "Harshitavadivelmurugan@gmail.com",
-    "phone": "8148323913",
-    "college": "Sboa matric. Hr sec school",
+    "college": "8148323913",
+    "phone": "Sboa matric. Hr sec school"
   },
   {
     "name": "P.Agilan",
     "email": "Skalaivaani1976@gmail.com",
-    "phone": "8270544150",
-    "college": "Government school",
+    "college": "8270544150",
+    "phone": "Government school"
   },
   {
     "name": "Bala Shivani",
     "email": "shivanisekaran07@gmail.com",
-    "phone": "9791034430",
-    "college": "Velammal matric higher secondary school",
+    "college": "9791034430",
+    "phone": "Velammal matric higher secondary school"
   },
-  { "name": "Ramana", "email": "-", "phone": "-", "college": "Velammal" },
+  { "name": "Ramana", "email": "-", "college": "-", "phone": "Velammal" },
   {
     "name": "Arshin",
     "email": "jayaarshinarshin@gmail.com",
-    "phone": "9342597079",
-    "college": "Agm",
+    "college": "9342597079",
+    "phone": "Agm"
   },
   {
     "name": "Annapoorani Alagananthan",
     "email": "pooranialagananthan22@gmail.com",
-    "phone": "919361528505",
-    "college": "Shri B.S.Mootha Girls Senior Secondary School",
+    "college": "919361528505",
+    "phone": "Shri B.S.Mootha Girls Senior Secondary School"
   },
   {
     "name": "Dharshna.U",
     "email": "deepika.upendran@gmail.com",
-    "phone": "8072616594",
-    "college": "Shri.B.S Mootha girls sr.sec school",
+    "college": "8072616594",
+    "phone": "Shri.B.S Mootha girls sr.sec school"
   },
   {
     "name": "Indhuja E",
     "email": "Indhujaelango@gmail.com",
-    "phone": "9003142273",
-    "college": "Dav ps",
+    "college": "9003142273",
+    "phone": "Dav ps"
   },
   {
     "name": "Srinidhi T",
     "email": "srinidhit294@gmail.com",
-    "phone": "9500040462",
-    "college": "Shri B S Mootha Girls Senior Secondary School",
+    "college": "9500040462",
+    "phone": "Shri B S Mootha Girls Senior Secondary School"
   },
   {
     "name": "Amrutha.S.M",
     "email": "amrutha2036@gmail.com",
-    "phone": "8124069102",
-    "college": "SHRI.B.S.MOOTHA GIRLS SR.SEC SCHOOL",
+    "college": "8124069102",
+    "phone": "SHRI.B.S.MOOTHA GIRLS SR.SEC SCHOOL"
   },
   {
     "name": "M.Ananya",
     "email": "manirekha030@gmail.com",
-    "phone": "9171793470",
-    "college": "Marg vidhyalaya",
+    "college": "9171793470",
+    "phone": "Marg vidhyalaya"
   },
   {
     "name": "Jesss Trina.P",
     "email": "pjessetrinamv032@gmail.com",
-    "phone": "9884164422",
-    "college": "Marg Vidhyalaya Senior Secondary School",
+    "college": "9884164422",
+    "phone": "Marg Vidhyalaya Senior Secondary School"
   },
   {
     "name": "Jeevith Vinoth",
     "email": "vinothjeevith8@gmail.com",
-    "phone": "9790987005",
-    "college": "Marg Vidhyalaya",
+    "college": "9790987005",
+    "phone": "Marg Vidhyalaya"
   },
   {
     "name": "Eshwar.K",
     "email": "evergreeneshwar2004@gmail.com",
-    "phone": "9344457636",
-    "college": "Vivekananda matriculation higher secondary school",
+    "college": "9344457636",
+    "phone": "Vivekananda matriculation higher secondary school"
   },
   {
     "name": "Sartaj Begum K",
     "email": "mumtazbegum602",
-    "phone": "9003198675",
-    "college": "Murthuzaviya oriental higher secondary school",
+    "college": "9003198675",
+    "phone": "Murthuzaviya oriental higher secondary school"
   },
   {
     "name": "M.Ajay Kumar",
     "email": "M.AJAYKUMAR5304@Gmail.com",
-    "phone": "9345785303",
-    "college": "Madras Christian College hr sec school",
+    "college": "9345785303",
+    "phone": "Madras Christian College hr sec school"
   },
   {
     "name": "M.Ajay Kumar",
     "email": "M.AJAYKUMAR5304@Gmail.com",
-    "phone": "9345785304",
-    "college": "Madras Christian College hr sec school",
+    "college": "9345785304",
+    "phone": "Madras Christian College hr sec school"
   },
   {
     "name": "Gayathri E",
     "email": "elangovangayathri293@gmail.com",
-    "phone": "8148997902",
-    "college": "Fatima matric hr sec school",
+    "college": "8148997902",
+    "phone": "Fatima matric hr sec school"
   },
   {
     "name": "Aadhitya",
     "email": "Ananthan1412@gmail.com",
-    "phone": "8056163083",
-    "college": "Sri chaitanya",
+    "college": "8056163083",
+    "phone": "Sri chaitanya"
   },
   {
     "name": "S.Alan Shawn",
     "email": "alanshawn09@gmail.com",
-    "phone": "919244001126",
-    "college": "Marg vidhyalaya",
+    "college": "919244001126",
+    "phone": "Marg vidhyalaya"
   },
   {
     "name": "Meshitha Ramesh Kumar",
     "email": "meshurks@gmail.com",
-    "phone": "9566870638",
-    "college": "Senthil public school",
+    "college": "9566870638",
+    "phone": "Senthil public school"
   },
   {
     "name": "R.Sanjay Raj",
     "email": "sanjayraj4757@gmail.com",
-    "phone": "9150886569",
-    "college": "Senthil public school",
+    "college": "9150886569",
+    "phone": "Senthil public school"
   },
   {
     "name": "Akshara.B.K",
     "email": "deepaharish461@gmail.com",
-    "phone": "9345775693",
-    "college": "Senthil public school",
+    "college": "9345775693",
+    "phone": "Senthil public school"
   },
   {
     "name": "M.Praveen",
     "email": "umaumamaheswari08@gmail.com",
-    "phone": "9080498446",
-    "college": "Madras Christian college higher secondary school",
+    "college": "9080498446",
+    "phone": "Madras Christian college higher secondary school"
   },
   {
     "name": "Akash.U",
     "email": "akash2009private@gmail.com",
-    "phone": "9345680309",
-    "college": "Kendriya vidyalaya",
+    "college": "9345680309",
+    "phone": "Kendriya vidyalaya"
   },
   {
     "name": "Isaac Joe",
     "email": "risaacjoe@gmail.com",
-    "phone": "8939888501",
-    "college": "Mcc hr.sec school",
+    "college": "8939888501",
+    "phone": "Mcc hr.sec school"
   },
   {
     "name": "Sentamilan S",
     "email": "ssentamilan4@gmail.com",
-    "phone": "8778974747",
-    "college": "Government polytechnic college",
+    "college": "8778974747",
+    "phone": "Government polytechnic college"
   },
   {
     "name": "Kareshmailangovan .I.M",
     "email": "m.kareshmailangovan@gmail.com",
-    "phone": "6369197984",
-    "college": "Senthil public school",
+    "college": "6369197984",
+    "phone": "Senthil public school"
   },
   {
     "name": "Alocious",
     "email": "alociousignacious91@gmail.com",
-    "phone": "8925184105",
-    "college": "Maria group of institutions",
+    "college": "8925184105",
+    "phone": "Maria group of institutions"
   },
   {
     "name": "D.Anbuselvan",
     "email": "dtvdas@gmail.com",
-    "phone": "7871630410",
-    "college": "SHRI ANAND JAIN VIDYALAYA",
+    "college": "7871630410",
+    "phone": "SHRI ANAND JAIN VIDYALAYA"
   },
   {
     "name": "Mohammed Haashir Hussain",
     "email": "mskillgaming51@gmail.com",
-    "phone": "9941666786",
-    "college": "Government Muslim Higher Secondary school",
+    "college": "9941666786",
+    "phone": "Government Muslim Higher Secondary school"
   },
   {
     "name": "Sadha Shree R",
     "email": "sadha4625@gmail.com",
-    "phone": "8610753309",
-    "college": "RIT, chennai",
+    "college": "8610753309",
+    "phone": "RIT, chennai"
   },
   {
     "name": "Harshith",
     "email": "skanagasubaraja@gmail.com",
-    "phone": "9486684400",
-    "college": "Maharishi vidyamandir",
+    "college": "9486684400",
+    "phone": "Maharishi vidyamandir"
   },
   {
     "name": "K.Mathan Prasaad",
     "email": "girivarshaa2010@gmail.com",
-    "phone": "9176769474",
-    "college": "Smt Krishna Moolchand Maheshwari Vivekananda Vidyalaya",
+    "college": "9176769474",
+    "phone": "Smt Krishna Moolchand Maheshwari Vivekananda Vidyalaya"
   },
   {
     "name": "Thiru Kumaran",
     "email": "kavinvarun@gmail.com",
-    "phone": "9445051534",
-    "college": "PAAVAI VIDHYASRAM",
+    "college": "9445051534",
+    "phone": "PAAVAI VIDHYASRAM"
   },
   {
     "name": "Raayinah Mazneen",
     "email": "raayinah@gmail.com",
-    "phone": "7550037876",
-    "college": "Government muslim higher secondary school",
+    "college": "7550037876",
+    "phone": "Government muslim higher secondary school"
   },
   {
     "name": "Subbulakshmi. M",
     "email": "nisthula25@gmail.com",
-    "phone": "9344286051",
-    "college": "Vivekananda matriculation higher secondary school",
+    "college": "9344286051",
+    "phone": "Vivekananda matriculation higher secondary school"
   },
   {
     "name": "Keertana",
     "email": "suprajakeertana@gmail.com",
-    "phone": "919840525090",
-    "college": "La chatelaine junior college",
+    "college": "919840525090",
+    "phone": "La chatelaine junior college"
   },
   {
     "name": "Mohammed Idrees",
     "email": "raa2shakk@gmail.com",
-    "phone": "7550037875",
-    "college": "Government Muslim Higher Secondary school",
+    "college": "7550037875",
+    "phone": "Government Muslim Higher Secondary school"
   },
   {
     "name": "A. Sajjad Ahmed",
     "email": "suhailahmedsajjad@gmail.com",
-    "phone": "7397445563",
-    "college": "Government Muslim Higher Secondary School",
+    "college": "7397445563",
+    "phone": "Government Muslim Higher Secondary School"
   },
   {
     "name": "Balaji",
     "email": "balajir911@gmail.com",
-    "phone": "9600167828",
-    "college": "Ps higher secondary school",
+    "college": "9600167828",
+    "phone": "Ps higher secondary school"
   },
   {
     "name": "Manjula",
     "email": "manjulabalaji190569@gmail.com",
-    "phone": "7305607603",
-    "college": "Girls High school",
+    "college": "7305607603",
+    "phone": "Girls High school"
   },
   {
     "name": "V. Sabari Nathan",
     "email": "nathansabari071@gmail.com",
-    "phone": "9841902354",
-    "college": "SJNS Jain matriculation higher secondary school",
+    "college": "9841902354",
+    "phone": "SJNS Jain matriculation higher secondary school"
   },
   {
     "name": "Patil Gayatri Balkrishna",
     "email": "pgayatri21092003@gmail.com",
-    "phone": "7020482254",
-    "college": "SNJB's SHHJB polytechnic, chandwad",
+    "college": "7020482254",
+    "phone": "SNJB's SHHJB polytechnic, chandwad"
   },
   {
     "name": "Heijini B",
     "email": "rbnrealestate639@gmail.com",
-    "phone": "7708498899",
-    "college": "Bharath university",
+    "college": "7708498899",
+    "phone": "Bharath university"
   },
   {
     "name": "Kavipriya P",
     "email": "angelkavi32@gmail.com",
-    "phone": "7550204020",
-    "college": "RMD",
+    "college": "7550204020",
+    "phone": "RMD"
   },
   {
     "name": "Sasi Abinaya",
     "email": "chithusankar@gmail.com",
-    "phone": "9019660921",
-    "college": "SSMRV PU College Jayanagar Bangalore",
+    "college": "9019660921",
+    "phone": "SSMRV PU College Jayanagar Bangalore"
   },
   {
     "name": "Varshini R",
     "email": "varshinivarki04@gmail.com",
-    "phone": "9629929077",
-    "college": "RMK Engineering college",
+    "college": "9629929077",
+    "phone": "RMK Engineering college"
   },
   {
     "name": "Sadhurya.S",
     "email": "sadhuryasaminathan1835@gmail.com",
-    "phone": "9360152445",
-    "college": "College of engineering, Guindy - Anna University",
+    "college": "9360152445",
+    "phone": "College of engineering, Guindy - Anna University"
   },
   {
     "name": "Lahari P",
     "email": "lahari11042005@gmail.com",
-    "phone": "9182397302",
-    "college": "Velammal Matric Higher Secondary School - Ponneri",
+    "college": "9182397302",
+    "phone": "Velammal Matric Higher Secondary School - Ponneri"
   },
   {
     "name": "Muhammad Fateen",
     "email": "fateen1606@gmail.com",
-    "phone": "7397328711",
-    "college": "St.johns mat.hr.sec.school",
+    "college": "7397328711",
+    "phone": "St.johns mat.hr.sec.school"
   },
   {
     "name": "Shabana Begum .M",
     "email": "shabriya31@gmail.com",
-    "phone": "9840409740",
-    "college": "Meenakshi Academy of Higher Education and Research",
+    "college": "9840409740",
+    "phone": "Meenakshi Academy of Higher Education and Research"
   },
   {
     "name": "Sai Aarthi.B",
     "email": "g.baalamurugan@gmail.com",
-    "phone": "9698033963",
-    "college": "Casa Di Mir Matric. Hr. Sec School",
+    "college": "9698033963",
+    "phone": "Casa Di Mir Matric. Hr. Sec School"
   },
   {
     "name": "Karthi Keyan",
     "email": "Karthikayan kalishwaran",
-    "phone": "9003683997",
-    "college": "Karthi keyan",
+    "college": "9003683997",
+    "phone": "Karthi keyan"
   },
   {
     "name": "P.Mohamed Refakh",
     "email": "yasminrefakh@gmail.com",
-    "phone": "9095616182",
-    "college": "Kendriya vidyalaya karaikudi",
+    "college": "9095616182",
+    "phone": "Kendriya vidyalaya karaikudi"
   },
   {
     "name": "Monika . V",
     "email": "divyakailash2006@gmail.com",
-    "phone": "8015429494",
-    "college": "Meenakshi academy of education and research",
+    "college": "8015429494",
+    "phone": "Meenakshi academy of education and research"
   },
   {
     "name": "S.Kishore",
     "email": "kskishore385@gmail.com",
-    "phone": "6381562325",
-    "college": "Chendhuran polytechnic college",
+    "college": "6381562325",
+    "phone": "Chendhuran polytechnic college"
   },
   {
     "name": "Deepasree R S",
     "email": "deepasree3184@gmail.com",
-    "phone": "7395933808",
-    "college": "VELAMMAL MATRIC PONNERI",
+    "college": "7395933808",
+    "phone": "VELAMMAL MATRIC PONNERI"
   },
   {
     "name": "Lakshman M",
     "email": "lakshmanm_bsccs2021@spiher.ac.in",
-    "phone": "7904828458",
-    "college": "St Peter's Institute of Higher Education and Research",
+    "college": "7904828458",
+    "phone": "St Peter's Institute of Higher Education and Research"
   },
   {
     "name": "Harish.D",
     "email": "h8447759@gmail.com",
-    "phone": "8925083499",
-    "college": "TJS polythechnic collage",
+    "college": "8925083499",
+    "phone": "TJS polythechnic collage"
   },
   {
     "name": "S.Wasim Ahamad",
     "email": "Wa0771258@gmail.com",
-    "phone": "9047984539",
-    "college": "L.F.R.C Hr sec school",
+    "college": "9047984539",
+    "phone": "L.F.R.C Hr sec school"
   },
   {
     "name": "Joel",
     "email": "sjoelsanthosh@gmail.com",
-    "phone": "8825993386",
-    "college": "Vit",
+    "college": "8825993386",
+    "phone": "Vit"
   },
   {
     "name": "Sheikkhaleel",
     "email": "sheik khaleel 1234@ gamil. com",
-    "phone": "7200319342",
-    "college": "murthuzaivya oriental higher second school",
+    "college": "7200319342",
+    "phone": "murthuzaivya oriental higher second school"
   },
   {
     "name": "Lakshman M",
     "email": "laksm2023@gmail.com",
-    "phone": "7904828458",
-    "college": "St Peter's Institute of Higher Education and Research",
+    "college": "7904828458",
+    "phone": "St Peter's Institute of Higher Education and Research"
   },
   {
     "name": "Dhivya S K",
     "email": "skdhivya2005@gmail.com",
-    "phone": "9962302986",
-    "college": "Shri B S Mootha Girls Sr Sec School",
+    "college": "9962302986",
+    "phone": "Shri B S Mootha Girls Sr Sec School"
   },
   {
     "name": "A.Prabanzan",
     "email": "arunanna177@gmail.com",
-    "phone": "9655286672",
-    "college": "Velammal.matric.hr.sec.school",
+    "college": "9655286672",
+    "phone": "Velammal.matric.hr.sec.school"
   },
   {
     "name": "S.Farana Begum",
     "email": "faranafaru143@gmail.com",
-    "phone": "8015671136",
-    "college": "School",
+    "college": "8015671136",
+    "phone": "School"
   },
   {
     "name": "Dharshana T",
     "email": "kavitharajan007@gmail.com",
-    "phone": "9551088203",
-    "college": "Church park",
+    "college": "9551088203",
+    "phone": "Church park"
   },
   {
     "name": "Nithya Shree V",
     "email": "nithy5530@gmail.com",
-    "phone": "6385486161",
-    "college": "Anna University mit campus",
+    "college": "6385486161",
+    "phone": "Anna University mit campus"
   },
   {
     "name": "Aruna S",
     "email": "arunasendil418@gmail.com",
-    "phone": "6380234516",
-    "college": "Staff",
+    "college": "6380234516",
+    "phone": "Staff"
   },
   {
     "name": "K.Jeevan",
     "email": "sureshkoneti77@gmail.com",
-    "phone": "9989887525",
-    "college": "MGM Jr college",
+    "college": "9989887525",
+    "phone": "MGM Jr college"
   },
   {
     "name": "Mohanakrishnan P",
     "email": "mohanak766@gmail.com",
-    "phone": "9976863133",
-    "college": "Government HIGHER SECONDARY school",
+    "college": "9976863133",
+    "phone": "Government HIGHER SECONDARY school"
   },
   {
     "name": "Tarun",
     "email": "tarunantony84@gmail.com",
-    "phone": "7338796644",
-    "college": "Donbosco egmore",
+    "college": "7338796644",
+    "phone": "Donbosco egmore"
   },
   {
     "name": "Sharon Jasmin Florance. R",
     "email": "sharonflorance912@gmail.com",
-    "phone": "7550252912",
-    "college": "Apollo arts and science College",
+    "college": "7550252912",
+    "phone": "Apollo arts and science College"
   },
   {
     "name": "Karthik Srivatsav",
     "email": "karthiksrivatsav7@gmail.com",
-    "phone": "9176059604",
-    "college": "Easwari engineering College",
+    "college": "9176059604",
+    "phone": "Easwari engineering College"
   },
   {
     "name": "Keerthika",
     "email": "keerthikad231@gmail.com",
-    "phone": "6379548312",
-    "college": "Suraj metric hr sec school",
+    "college": "6379548312",
+    "phone": "Suraj metric hr sec school"
   },
   {
     "name": "Dhaniyalakshmi C",
     "email": "dhaniyalakshmi25@gmail.com",
-    "phone": "9655230199",
-    "college": "Roever school of excellence",
+    "college": "9655230199",
+    "phone": "Roever school of excellence"
   },
   {
     "name": "Dharanyashree",
     "email": "Dharanyashree.123@gmail.com",
-    "phone": "9965154764",
-    "college": "Shri bs mootha girls senior secondary school",
+    "college": "9965154764",
+    "phone": "Shri bs mootha girls senior secondary school"
   },
   {
     "name": "V.Arunkumar",
     "email": "arunbhuvan99@gmail.com",
-    "phone": "9150922692",
-    "college": "Madras Christian College Higher Secondary School",
+    "college": "9150922692",
+    "phone": "Madras Christian College Higher Secondary School"
   },
   {
     "name": "Mohanakrishnan P",
     "email": "manikampazhani@gmail.com",
-    "phone": "9025962689",
-    "college": "GOVERNMENT HIGHER SECONDARY SCHOOL",
+    "college": "9025962689",
+    "phone": "GOVERNMENT HIGHER SECONDARY SCHOOL"
   },
   {
     "name": "Sujeth S",
     "email": "ssujeth2112@gmail.com",
-    "phone": "9123518942",
-    "college": "phone",
+    "college": "9123518942",
+    "phone": "College"
   },
   {
     "name": "Mohamed Aathif",
     "email": "narkisbanu882@gmail.com",
-    "phone": "9962287325",
-    "college": "Government Muslim Higher Secondary School",
+    "college": "9962287325",
+    "phone": "Government Muslim Higher Secondary School"
   },
   {
     "name": "Bhuvnesh",
     "email": "Parasuramanjayanthi@gmail.com",
-    "phone": "9940117318",
-    "college": "Madras Christian college hr sec school",
+    "college": "9940117318",
+    "phone": "Madras Christian college hr sec school"
   },
   {
     "name": "Kamalika. V",
     "email": "v.kamalika2007@gmail.com",
-    "phone": "+91 94990 14375",
-    "college": "Marg Vidhyalaya",
+    "college": "+91 94990 14375",
+    "phone": "Marg Vidhyalaya"
   },
   {
     "name": "Jai Ganesh",
     "email": "jaiganeshealumalai",
-    "phone": "9342413314",
-    "college": "MADRAS CHRISTAIN COLLEGE",
+    "college": "9342413314",
+    "phone": "MADRAS CHRISTAIN COLLEGE"
   },
   {
     "name": "Shri Ashwin.L",
     "email": "shriashwin3@gmail.com",
-    "phone": "9092802610",
-    "college": "MCC HR SEC SCHOOL",
+    "college": "9092802610",
+    "phone": "MCC HR SEC SCHOOL"
   },
   {
     "name": "R.Shriraviraj",
     "email": "www.shriravispyder@gmail.com",
-    "phone": "8925047807",
-    "college": "Madras Christian college higher secondary school",
+    "college": "8925047807",
+    "phone": "Madras Christian college higher secondary school"
   },
   {
     "name": "Sam Dominic",
     "email": "Samsamdominic8@gmail.com",
-    "phone": "8610341199",
-    "college": "Madras Christian College Hr.Sec.School",
+    "college": "8610341199",
+    "phone": "Madras Christian College Hr.Sec.School"
   },
   {
     "name": "Jv. Harish",
     "email": "jayclan2016@gmail",
-    "phone": "9941309092",
-    "college": "Mcc School",
+    "college": "9941309092",
+    "phone": "Mcc School"
   },
   {
     "name": "Agnes Selestina",
     "email": "Carmelsimon1978@gmail.com",
-    "phone": "9840240030",
-    "college": "Sri ramakrishna matriculation higher secondary school",
+    "college": "9840240030",
+    "phone": "Sri ramakrishna matriculation higher secondary school"
   },
   {
     "name": "Hariharan K",
     "email": "hariharankannan36@gmail.com",
-    "phone": "6369690106",
-    "college": "PSRR engineering college",
+    "college": "6369690106",
+    "phone": "PSRR engineering college"
   },
   {
     "name": "Venus Raj Mj",
     "email": "vinishmj26@gmail.com",
-    "phone": "8428803946",
-    "college": "Vel tech multi tech",
+    "college": "8428803946",
+    "phone": "Vel tech multi tech"
   },
   {
     "name": "A. L. Moulika",
     "email": "Moulikaschool@gmail.com",
-    "phone": "9444662468",
-    "college": "Shri. B. S MOOTHA GIRLS SENIOR SECONDARY SCHOOL",
+    "college": "9444662468",
+    "phone": "Shri. B. S MOOTHA GIRLS SENIOR SECONDARY SCHOOL"
   },
   {
     "name": "Sunilkumar",
     "email": "tamilsunil25@gmail.com",
-    "phone": "6380897950",
-    "college": "Senthil Public School",
+    "college": "6380897950",
+    "phone": "Senthil Public School"
   },
   {
     "name": "Sulaiman",
     "email": "smj08055@gmail.com",
-    "phone": "7200825468",
-    "college": "Govt.Muslim higher secondary school",
+    "college": "7200825468",
+    "phone": "Govt.Muslim higher secondary school"
   },
   {
     "name": "Deva Dharshan L",
     "email": "mdevadharshanmv004@gmail.com",
-    "phone": "9789978915",
-    "college": "Marg Vidhyalaya",
+    "college": "9789978915",
+    "phone": "Marg Vidhyalaya"
   },
   {
     "name": "Vignesh.D",
     "email": "vigneshdillibabu2020@gmail.com",
-    "phone": "8072425520",
-    "college": "CENTRAL POLYTECHNIC COLLEGE",
+    "college": "8072425520",
+    "phone": "CENTRAL POLYTECHNIC COLLEGE"
   },
   {
     "name": "Ziaul Haque",
     "email": "ziaulhaq0408@gmail.com",
-    "phone": "9345181761",
-    "college": "MURTHUZAVIYA ORIENTAL HIGER SECONDARY SCHOOL",
+    "college": "9345181761",
+    "phone": "MURTHUZAVIYA ORIENTAL HIGER SECONDARY SCHOOL"
   },
   {
     "name": "Anish",
     "email": "eswariprakasam67@gmail.com",
-    "phone": "7358084229",
-    "college": "School",
+    "college": "7358084229",
+    "phone": "School"
   },
   {
     "name": "V. Sanjay",
     "email": "Ligeshwarisanjay2810@gmail.com",
-    "phone": "9382349276",
-    "college": "M. C. C",
+    "college": "9382349276",
+    "phone": "M. C. C"
   },
   {
     "name": "S.Durgeshwaran",
     "email": "dharani738252@gmail.com",
-    "phone": "8667447935",
-    "college": "Madras Cristian college higher secondary school",
+    "college": "8667447935",
+    "phone": "Madras Cristian college higher secondary school"
   },
   {
     "name": "Prithyanka",
     "email": "prithyankapreethi@gmail.com",
-    "phone": "7305210124",
-    "college": "Sboa matric",
+    "college": "7305210124",
+    "phone": "Sboa matric"
   },
   {
     "name": "Gaikwad Chaitali Pandharinath",
     "email": "gchaitali333@gmail.com",
-    "phone": "9322441644",
-    "college": "SNJB Polytechnic college chandwad",
+    "college": "9322441644",
+    "phone": "SNJB Polytechnic college chandwad"
   },
   {
     "name": "Chavanke Shital Kailas",
     "email": "Shitalchavanke1503@gmail.com",
-    "phone": "9359140740",
-    "college": "Shree H.H.J.B.polytechnic, chandwad.",
+    "college": "9359140740",
+    "phone": "Shree H.H.J.B.polytechnic, chandwad."
   },
   {
     "name": "Thanuja J",
     "email": "thanujajk2006@gmail.com",
-    "phone": "7904049370",
-    "college": "Sri Rama Krishna matriculation higher secondary school",
+    "college": "7904049370",
+    "phone": "Sri Rama Krishna matriculation higher secondary school"
   },
   {
     "name": "Shinde Renuka Kiasn",
     "email": "renukashinde672003@gmail.com",
-    "phone": "7020247494",
-    "college": "Shri HHJB polytechnic Chandwad",
+    "college": "7020247494",
+    "phone": "Shri HHJB polytechnic Chandwad"
   },
   {
     "name": "Nithyaa Sri",
     "email": "purplenithu10@gmail.com",
-    "phone": "9791472854",
-    "college": "Sri RamaKrishna mat. hr.sec.school",
+    "college": "9791472854",
+    "phone": "Sri RamaKrishna mat. hr.sec.school"
   },
   {
     "name": "Sandhanshiv Shivani Keda",
     "email": "sandhanshivshivani19@gmail.com",
-    "phone": "8080909625",
-    "college": "S.H.H.J.B.Polytechnic",
+    "college": "8080909625",
+    "phone": "S.H.H.J.B.Polytechnic"
   },
   {
     "name": "Sridhar R",
     "email": "sridharramsv@gmail.com",
-    "phone": "9551835371",
-    "college": "Hindu college",
+    "college": "9551835371",
+    "phone": "Hindu college"
   },
   {
     "name": "Rasul",
     "email": "Rasul46@gmail.com",
-    "phone": "7401391989",
-    "college": "Murthuzaviya oriented secondary school",
+    "college": "7401391989",
+    "phone": "Murthuzaviya oriented secondary school"
   },
   {
     "name": "Karthikesh B.R",
     "email": "gbalacs@gmail.com",
-    "phone": "9840662676",
-    "college": "SBOA SCHOOL AND JUNIOR COLLEGE",
+    "college": "9840662676",
+    "phone": "SBOA SCHOOL AND JUNIOR COLLEGE"
   },
   {
     "name": "Mohanakrishnan P",
     "email": "mnaikampazhani@gmail.com",
-    "phone": "9025962689",
-    "college": "SCHOOL",
+    "college": "9025962689",
+    "phone": "SCHOOL"
   },
   {
     "name": "Chandramouleeswaran.M",
     "email": "Chandramouli.sivint@gmail.com",
-    "phone": "9789396700",
-    "college": "Senthil public school",
+    "college": "9789396700",
+    "phone": "Senthil public school"
   },
   {
     "name": "Jennyfer. P",
     "email": "vadivujoeny1625@gmail.com",
-    "phone": "7708789225",
-    "college": "Senthil Public School",
-  },
-];
+    "college": "7708789225",
+    "phone": "Senthil Public School"
+  }
+]

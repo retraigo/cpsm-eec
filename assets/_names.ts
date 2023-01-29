@@ -3,7 +3,7 @@ import { capitalize } from "https://deno.land/x/lala@v3.1.5/functions/util/capit
 
 const __dirname = new URL(".", import.meta.url).pathname;
 const fdpDetails = new TextDecoder("utf-8").decode(
-  Deno.readFileSync(`${__dirname}/fdp.csv`),
+  Deno.readFileSync(`${__dirname}/cpsm.csv`),
 );
 
 const data = parse(fdpDetails);
@@ -17,6 +17,6 @@ const m = data.map((x) => {
   };
 });
 
-Deno.writeFileSync(`${__dirname}/fdp.json`, new TextEncoder().encode(JSON.stringify(m)))
+Deno.writeFileSync(`${__dirname}/cpsm.json`, new TextEncoder().encode(JSON.stringify(m)))
 
 console.log("DONE")

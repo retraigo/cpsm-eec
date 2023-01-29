@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div class="p-4 flex flex-col space-y-8 mx-auto max-w-screen-md">
       <Head>
-        <title>Valedictory Function | FDP on Data Science Tools</title>
+        <title>Valedictory Function | Promoting Career on Social Media</title>
       </Head>
       <img
         src="/icon.png"
@@ -22,7 +22,7 @@ export default function Home() {
           Valedictory Function
         </div>
         <div class="font-bold text-2xl tracking-wider text-purple-700">
-          FDP on Data Science Tools
+        Promoting Career on Social Media
         </div>
       </div>
       <Cert />

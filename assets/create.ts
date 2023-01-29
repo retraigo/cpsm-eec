@@ -6,14 +6,14 @@ import {
 
 const __dirname = new URL(".", import.meta.url).pathname;
 
-const bg = await loadImage(`${__dirname}/certificate_base.webp`);
+const bg = await loadImage(`${__dirname}/cert_base.webp`);
 
 const fontFam = await Deno.readFile(
   `${__dirname}/Courgette-Regular.ttf`,
 );
 
 export default function create(name: string, college: string): string {
-  const canvas = createCanvas(3511, 2483);
+  const canvas = createCanvas(3840, 2715);
 
   const ctx = canvas.getContext("2d");
 
@@ -49,8 +49,8 @@ ctx.strokeStyle = "#1445a1";
   ctx.fillStyle = "#000000";
   ctx.fillText(
     `${name}`,
-    1500,
-    1150,
+    1900,
+    1220,
   );
 
   ctx.font = applyText(
@@ -59,8 +59,8 @@ ctx.strokeStyle = "#1445a1";
   );
   ctx.fillText(
     `${college}`,
-    600,
-    1330,
+    900,
+    1370,
   );
 
   return canvas.toDataURL();
