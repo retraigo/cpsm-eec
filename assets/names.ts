@@ -1508,10 +1508,10 @@ export default [
     "college": "RIT, chennai",
   },
   {
-    "name": "Harshith",
+    "name": "K. Harshith Vathanav",
     "email": "skanagasubaraja@gmail.com",
     "phone": "9486684400",
-    "college": "Maharishi vidyamandir",
+    "college": "Maharishi Vidyamandir",
   },
   {
     "name": "K.Mathan Prasaad",
