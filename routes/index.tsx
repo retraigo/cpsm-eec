@@ -4,7 +4,7 @@ export default function Home() {
   return (
     <div class="p-4 flex flex-col space-y-8 mx-auto max-w-screen-md">
       <Head>
-        <title>Valedictory Function | Promoting Career on Social Media</title>
+        <title>Certificates | Promoting Career on Social Media</title>
       </Head>
       <img
         src="/icon.png"
@@ -19,10 +19,10 @@ export default function Home() {
           Department of Artificial Intelligence & Data Science
         </div>
         <div class="font-bold text-blue-500 transition transform duration-500 ease-in-out hover:scale-110 text-2xl">
-          Valedictory Function
+        Promoting Career on Social Media
         </div>
         <div class="font-bold text-2xl tracking-wider text-purple-700">
-        Promoting Career on Social Media
+        Download Certificates
         </div>
       </div>
       <Cert />
